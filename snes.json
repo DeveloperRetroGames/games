@@ -1,1 +1,3866 @@
-
+[
+    {
+        "nome do arquivo": "2020 Super Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/2020.Super.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "3 Ninjas Kick Back",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/3.Ninjas.Kick.Back.zip"
+    },
+    {
+        "nome do arquivo": "7th Saga",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/7th.Saga.zip"
+    },
+    {
+        "nome do arquivo": "90 Minutes - European Prime Goal",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/90.Minutes.-.European.Prime.Goal.zip"
+    },
+    {
+        "nome do arquivo": "A.S.P. Air Strike Patrol",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/A.S.P.Air.Strike.Patrol.zip"
+    },
+    {
+        "nome do arquivo": "Aaahh!!! Real Monsters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aaahh.Real.Monsters.zip"
+    },
+    {
+        "nome do arquivo": "ABC Monday Night Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/ABC.Monday.Night.Football.zip"
+    },
+    {
+        "nome do arquivo": "Accele Brid",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Accele.Brid.zip"
+    },
+    {
+        "nome do arquivo": "ACME Animation Factory",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/ACME.Animation.Factory.zip"
+    },
+    {
+        "nome do arquivo": "Acrobat Mission",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Acrobat.Mission.zip"
+    },
+    {
+        "nome do arquivo": "Action Pachio",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Action.Pachio.zip"
+    },
+    {
+        "nome do arquivo": "ActRaiser (Translated)",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/ActRaiser.Translated.zip"
+    },
+    {
+        "nome do arquivo": "ActRaiser I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/ActRaiser.I.zip"
+    },
+    {
+        "nome do arquivo": "ActRaiser II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/ActRaiser.II.zip"
+    },
+    {
+        "nome do arquivo": "AD&D - Eye Of The Beholder",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/AD.D.-.Eye.Of.The.Beholder.zip"
+    },
+    {
+        "nome do arquivo": "Addams Family - Pugsley's Scavenger Hu",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Addams.Family.-.Pugsley.s.Scavenger.Hu.zip"
+    },
+    {
+        "nome do arquivo": "Addams Family Values",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Addams.Family.Values.zip"
+    },
+    {
+        "nome do arquivo": "Addams Family",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Addams.Family.zip"
+    },
+    {
+        "nome do arquivo": "Adventures of Batman & Robin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Adventures.of.Batman.Robin.zip"
+    },
+    {
+        "nome do arquivo": "Adventures of Dr. Franken",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Adventures.of.Dr.Franken.zip"
+    },
+    {
+        "nome do arquivo": "Adventures of Kid Kleets",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Adventures.of.Kid.Kleets.zip"
+    },
+    {
+        "nome do arquivo": "Adventures of Rocky and Bullwinkle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Adventures.of.Rocky.and.Bullwinkle.zip"
+    },
+    {
+        "nome do arquivo": "Adventures of TinTin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Adventures.of.TinTin.zip"
+    },
+    {
+        "nome do arquivo": "Aero Fighters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aero.Fighters.zip"
+    },
+    {
+        "nome do arquivo": "Aero the Acro-Bat I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aero.the.Acro-Bat.I.zip"
+    },
+    {
+        "nome do arquivo": "Aero the Acro-Bat II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aero.the.Acro-Bat.II.zip"
+    },
+    {
+        "nome do arquivo": "Aerobiz Supersonic",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aerobiz.Supersonic.zip"
+    },
+    {
+        "nome do arquivo": "Aerobiz",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aerobiz.zip"
+    },
+    {
+        "nome do arquivo": "Aim for the Ace!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aim.for.the.Ace.zip"
+    },
+    {
+        "nome do arquivo": "Air Cavalry",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Air.Cavalry.zip"
+    },
+    {
+        "nome do arquivo": "Al Unser Jr's Road to the Top",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Al.Unser.Jr.s.Road.to.the.Top.zip"
+    },
+    {
+        "nome do arquivo": "Aladdin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Aladdin.zip"
+    },
+    {
+        "nome do arquivo": "Alcahest",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Alcahest.zip"
+    },
+    {
+        "nome do arquivo": "Alien III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Alien.III.zip"
+    },
+    {
+        "nome do arquivo": "Alien Vs. Predator",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Alien.Vs.Predator.zip"
+    },
+    {
+        "nome do arquivo": "Amazing Spider-Man - Lethal Foes",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Amazing.Spider-Man.-.Lethal.Foes.zip"
+    },
+    {
+        "nome do arquivo": "American Battle Dome",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/American.Battle.Dome.zip"
+    },
+    {
+        "nome do arquivo": "American Gladiators",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/American.Gladiators.zip"
+    },
+    {
+        "nome do arquivo": "An American Tail - Fievel Goes West",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/An.American.Tail.-.Fievel.Goes.West.zip"
+    },
+    {
+        "nome do arquivo": "Andre Agassi Tennis",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Andre.Agassi.Tennis.zip"
+    },
+    {
+        "nome do arquivo": "Animaniacs",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Animaniacs.zip"
+    },
+    {
+        "nome do arquivo": "Apocalypse II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Apocalypse.II.zip"
+    },
+    {
+        "nome do arquivo": "Araiguma Rascal",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Araiguma.Rascal.zip"
+    },
+    {
+        "nome do arquivo": "Arcade's Greatest Hits - Atari",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Arcade.s.Greatest.Hits.-.Atari.zip"
+    },
+    {
+        "nome do arquivo": "Arcade's Greatest Hits - Williams",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Arcade.s.Greatest.Hits.-.Williams.zip"
+    },
+    {
+        "nome do arquivo": "Arcana",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Arcana.zip"
+    },
+    {
+        "nome do arquivo": "Archer MacLean's Dropzone",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Archer.MacLean.s.Dropzone.zip"
+    },
+    {
+        "nome do arquivo": "Arcus Odyssey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Arcus.Odyssey.zip"
+    },
+    {
+        "nome do arquivo": "Ardy Lightfoot",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ardy.Lightfoot.zip"
+    },
+    {
+        "nome do arquivo": "Arkanoid - Doh It Again",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Arkanoid.-.Doh.It.Again.zip"
+    },
+    {
+        "nome do arquivo": "Art of Fighting II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Art.of.Fighting.II.zip"
+    },
+    {
+        "nome do arquivo": "Art of Fighting",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Art.of.Fighting.zip"
+    },
+    {
+        "nome do arquivo": "Assault Suits Valken",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Assault.Suits.Valken.zip"
+    },
+    {
+        "nome do arquivo": "Asterix & Obelix",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Asterix.Obelix.zip"
+    },
+    {
+        "nome do arquivo": "Asterix",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Asterix.zip"
+    },
+    {
+        "nome do arquivo": "Axelay",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Axelay.zip"
+    },
+    {
+        "nome do arquivo": "Bahamut Lagoon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bahamut.Lagoon.zip"
+    },
+    {
+        "nome do arquivo": "Ball Bullet Gun",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ball.Bullet.Gun.zip"
+    },
+    {
+        "nome do arquivo": "Ballz 3D",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ballz.3D.zip"
+    },
+    {
+        "nome do arquivo": "Barbie Super Model",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Barbie.Super.Model.zip"
+    },
+    {
+        "nome do arquivo": "Barbie Vacation Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Barbie.Vacation.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Barkley Shut Up and Jam!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Barkley.Shut.Up.and.Jam.zip"
+    },
+    {
+        "nome do arquivo": "Bass Masters Classic - Pro Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bass.Masters.Classic.-.Pro.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Bass Masters Classic",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bass.Masters.Classic.zip"
+    },
+    {
+        "nome do arquivo": "Bassin's Black Bass",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bassin.s.Black.Bass.zip"
+    },
+    {
+        "nome do arquivo": "Bastard!! - Ankoku no Hakai-shin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bastard.-.Ankoku.no.Hakai-shin.zip"
+    },
+    {
+        "nome do arquivo": "Batman - Revenge of the Joker",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Batman.-.Revenge.of.the.Joker.zip"
+    },
+    {
+        "nome do arquivo": "Batman Forever",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Batman.Forever.zip"
+    },
+    {
+        "nome do arquivo": "Batman Returns",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Batman.Returns.zip"
+    },
+    {
+        "nome do arquivo": "Batman",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Batman.zip"
+    },
+    {
+        "nome do arquivo": "Battle Blaze",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Blaze.zip"
+    },
+    {
+        "nome do arquivo": "Battle Cars",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Cars.zip"
+    },
+    {
+        "nome do arquivo": "Battle Clash",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Clash.zip"
+    },
+    {
+        "nome do arquivo": "Battle Dodgeball I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Dodgeball.I.zip"
+    },
+    {
+        "nome do arquivo": "Battle Dodgeball II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Dodgeball.II.zip"
+    },
+    {
+        "nome do arquivo": "Battle Grand Prix",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Grand.Prix.zip"
+    },
+    {
+        "nome do arquivo": "Battle Master",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Master.zip"
+    },
+    {
+        "nome do arquivo": "Battle Pinball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Pinball.zip"
+    },
+    {
+        "nome do arquivo": "Battle Soccer - Field no Hasha",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Soccer.-.Field.no.Hasha.zip"
+    },
+    {
+        "nome do arquivo": "Battle Soccer II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battle.Soccer.II.zip"
+    },
+    {
+        "nome do arquivo": "Battletoads & Double Dragon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battletoads.Double.Dragon.zip"
+    },
+    {
+        "nome do arquivo": "Battletoads In Battlemaniacs",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Battletoads.In.Battlemaniacs.zip"
+    },
+    {
+        "nome do arquivo": "Bazooka Blitzkrieg",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bazooka.Blitzkrieg.zip"
+    },
+    {
+        "nome do arquivo": "Beauty and the Beast",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Beauty.and.the.Beast.zip"
+    },
+    {
+        "nome do arquivo": "Beavis and Butt-Head",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Beavis.and.Butt-Head.zip"
+    },
+    {
+        "nome do arquivo": "Bebe's Kids",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bebe.s.Kids.zip"
+    },
+    {
+        "nome do arquivo": "Beethoven's 2nd",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Beethoven.s.2nd.zip"
+    },
+    {
+        "nome do arquivo": "Best of the Best - Championship Karate",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Best.of.the.Best.-.Championship.Karate.zip"
+    },
+    {
+        "nome do arquivo": "Big Sky Trooper",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Big.Sky.Trooper.zip"
+    },
+    {
+        "nome do arquivo": "Bike Daisuki! - Rider's Spirits",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bike.Daisuki.-.Rider.s.Spirits.zip"
+    },
+    {
+        "nome do arquivo": "Biker Mice From Mars",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Biker.Mice.From.Mars.zip"
+    },
+    {
+        "nome do arquivo": "Bill Laimbeer's Combat Basketball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bill.Laimbeer.s.Combat.Basketball.zip"
+    },
+    {
+        "nome do arquivo": "Bill Walsh College Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bill.Walsh.College.Football.zip"
+    },
+    {
+        "nome do arquivo": "Bio Metal",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bio.Metal.zip"
+    },
+    {
+        "nome do arquivo": "Blackthorne",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Blackthorne.zip"
+    },
+    {
+        "nome do arquivo": "Blazeon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Blazeon.zip"
+    },
+    {
+        "nome do arquivo": "Blues Brothers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Blues.Brothers.zip"
+    },
+    {
+        "nome do arquivo": "BOB",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/BOB.zip"
+    },
+    {
+        "nome do arquivo": "Bobby's World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bobby.s.World.zip"
+    },
+    {
+        "nome do arquivo": "Bomberman B-Daman",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bomberman.B-Daman.zip"
+    },
+    {
+        "nome do arquivo": "Bonkers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bonkers.zip"
+    },
+    {
+        "nome do arquivo": "Boogerman - A Pick and Flick Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Boogerman.-.A.Pick.and.Flick.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Boxing Legends of the Ring",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Boxing.Legends.of.the.Ring.zip"
+    },
+    {
+        "nome do arquivo": "Boy's Soccer Team V",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Boy.s.Soccer.Team.V.zip"
+    },
+    {
+        "nome do arquivo": "Brain Lord",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brain.Lord.zip"
+    },
+    {
+        "nome do arquivo": "Brainies",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brainies.zip"
+    },
+    {
+        "nome do arquivo": "Bram Stoker's Dracula",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bram.Stoker.s.Dracula.zip"
+    },
+    {
+        "nome do arquivo": "Brandish II - The Planet Buster",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brandish.II.-.The.Planet.Buster.zip"
+    },
+    {
+        "nome do arquivo": "Brandish",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brandish.zip"
+    },
+    {
+        "nome do arquivo": "Brawl Brothers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brawl.Brothers.zip"
+    },
+    {
+        "nome do arquivo": "BreakThru!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/BreakThru.zip"
+    },
+    {
+        "nome do arquivo": "Breath Of Fire I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Breath.Of.Fire.I.zip"
+    },
+    {
+        "nome do arquivo": "Breath of Fire II - Shimei no Ko",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Breath.of.Fire.II.-.Shimei.no.Ko.zip"
+    },
+    {
+        "nome do arquivo": "Breath of Fire II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Breath.of.Fire.II.zip"
+    },
+    {
+        "nome do arquivo": "Brett Hull Hockey '95",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brett.Hull.Hockey.95.zip"
+    },
+    {
+        "nome do arquivo": "Brett Hull Hockey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brett.Hull.Hockey.zip"
+    },
+    {
+        "nome do arquivo": "Bronkie Health Hero",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bronkie.Health.Hero.zip"
+    },
+    {
+        "nome do arquivo": "Brunswick World Tournament of Champion",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brunswick.World.Tournament.of.Champion.zip"
+    },
+    {
+        "nome do arquivo": "Brutal - Paws of Fury",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Brutal.-.Paws.of.Fury.zip"
+    },
+    {
+        "nome do arquivo": "Bubsy II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bubsy.II.zip"
+    },
+    {
+        "nome do arquivo": "Bubsy in Claws Encounters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bubsy.in.Claws.Encounters.zip"
+    },
+    {
+        "nome do arquivo": "Bugs Bunny - Rabbit Rampage",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bugs.Bunny.-.Rabbit.Rampage.zip"
+    },
+    {
+        "nome do arquivo": "Bulls vs. Blazers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bulls.vs.Blazers.zip"
+    },
+    {
+        "nome do arquivo": "Bust-A-Move",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Bust-A-Move.zip"
+    },
+    {
+        "nome do arquivo": "Cacoma Knight in Bizyland",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cacoma.Knight.in.Bizyland.zip"
+    },
+    {
+        "nome do arquivo": "Cal Ripken Jr. Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cal.Ripken.Jr.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "California Games II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/California.Games.II.zip"
+    },
+    {
+        "nome do arquivo": "Cannon Fodder",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cannon.Fodder.zip"
+    },
+    {
+        "nome do arquivo": "Cannondale Cup",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cannondale.Cup.zip"
+    },
+    {
+        "nome do arquivo": "Capcom's MVP Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Capcom.s.MVP.Football.zip"
+    },
+    {
+        "nome do arquivo": "Capcom's Soccer Shootout",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Capcom.s.Soccer.Shootout.zip"
+    },
+    {
+        "nome do arquivo": "Captain America and The Avengers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Captain.America.and.The.Avengers.zip"
+    },
+    {
+        "nome do arquivo": "Captain Commando",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Captain.Commando.zip"
+    },
+    {
+        "nome do arquivo": "Captain Novolin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Captain.Novolin.zip"
+    },
+    {
+        "nome do arquivo": "Carrier Aces",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Carrier.Aces.zip"
+    },
+    {
+        "nome do arquivo": "Casper",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Casper.zip"
+    },
+    {
+        "nome do arquivo": "Castlevania - Dracula X",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Castlevania.-.Dracula.X.zip"
+    },
+    {
+        "nome do arquivo": "Champions World Class Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Champions.World.Class.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Championship Pool",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Championship.Pool.zip"
+    },
+    {
+        "nome do arquivo": "Championship Soccer '94",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Championship.Soccer.94.zip"
+    },
+    {
+        "nome do arquivo": "Chessmaster",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chessmaster.zip"
+    },
+    {
+        "nome do arquivo": "Chester Cheetah - Too Cool to Fool",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chester.Cheetah.-.Too.Cool.to.Fool.zip"
+    },
+    {
+        "nome do arquivo": "Chester Cheetah - Wild Wild Quest",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chester.Cheetah.-.Wild.Wild.Quest.zip"
+    },
+    {
+        "nome do arquivo": "Choplifter III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Choplifter.III.zip"
+    },
+    {
+        "nome do arquivo": "Chou Aniki - Bakuretsu Rantouden",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chou.Aniki.-.Bakuretsu.Rantouden.zip"
+    },
+    {
+        "nome do arquivo": "Choujikuu Yousai Macross",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Choujikuu.Yousai.Macross.zip"
+    },
+    {
+        "nome do arquivo": "Chrono Trigger Retranslation",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chrono.Trigger.Retranslation.zip"
+    },
+    {
+        "nome do arquivo": "Chrono Trigger",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chrono.Trigger.zip"
+    },
+    {
+        "nome do arquivo": "Chuck Rock",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Chuck.Rock.zip"
+    },
+    {
+        "nome do arquivo": "Civilization",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Civilization.zip"
+    },
+    {
+        "nome do arquivo": "Clay Fighter - Tournament Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Clay.Fighter.-.Tournament.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Clay Fighter I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Clay.Fighter.I.zip"
+    },
+    {
+        "nome do arquivo": "Clay Fighter II - Judgement Clay",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Clay.Fighter.II.-.Judgement.Clay.zip"
+    },
+    {
+        "nome do arquivo": "Claymates",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Claymates.zip"
+    },
+    {
+        "nome do arquivo": "Cliffhanger",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cliffhanger.zip"
+    },
+    {
+        "nome do arquivo": "Clock Tower",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Clock.Tower.zip"
+    },
+    {
+        "nome do arquivo": "Clue",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Clue.zip"
+    },
+    {
+        "nome do arquivo": "College Football USA '97",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/College.Football.USA.97.zip"
+    },
+    {
+        "nome do arquivo": "College Slam Basketball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/College.Slam.Basketball.zip"
+    },
+    {
+        "nome do arquivo": "Columns",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Columns.zip"
+    },
+    {
+        "nome do arquivo": "Combatribes",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Combatribes.zip"
+    },
+    {
+        "nome do arquivo": "Congo the Movie",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Congo.the.Movie.zip"
+    },
+    {
+        "nome do arquivo": "Congo's Caper",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Congo.s.Caper.zip"
+    },
+    {
+        "nome do arquivo": "Contra III - The Alien Wars",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Contra.III.-.The.Alien.Wars.zip"
+    },
+    {
+        "nome do arquivo": "Cool Spot",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cool.Spot.zip"
+    },
+    {
+        "nome do arquivo": "Cool World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cool.World.zip"
+    },
+    {
+        "nome do arquivo": "Corn Buster",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Corn.Buster.zip"
+    },
+    {
+        "nome do arquivo": "Cosmo Gang - The Puzzle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cosmo.Gang.-.The.Puzzle.zip"
+    },
+    {
+        "nome do arquivo": "Cosmo Gang - The Video",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cosmo.Gang.-.The.Video.zip"
+    },
+    {
+        "nome do arquivo": "Crayon Shin-chan",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Crayon.Shin-chan.zip"
+    },
+    {
+        "nome do arquivo": "Cu-On-Pa SFC",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cu-On-Pa.SFC.zip"
+    },
+    {
+        "nome do arquivo": "Cutthroat Island",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cutthroat.Island.zip"
+    },
+    {
+        "nome do arquivo": "Cyber Knight I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cyber.Knight.I.zip"
+    },
+    {
+        "nome do arquivo": "Cyber Knight II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cyber.Knight.II.zip"
+    },
+    {
+        "nome do arquivo": "Cyber Spin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cyber.Spin.zip"
+    },
+    {
+        "nome do arquivo": "Cybernator",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cybernator.zip"
+    },
+    {
+        "nome do arquivo": "Cyborg 009",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Cyborg.009.zip"
+    },
+    {
+        "nome do arquivo": "Daffy Duck - The Marvin Missions",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Daffy.Duck.-.The.Marvin.Missions.zip"
+    },
+    {
+        "nome do arquivo": "Darius Twin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Darius.Twin.zip"
+    },
+    {
+        "nome do arquivo": "Dark Law - Meaning of Death",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dark.Law.-.Meaning.of.Death.zip"
+    },
+    {
+        "nome do arquivo": "David Crane's Amazing Tennis",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/David.Crane.s.Amazing.Tennis.zip"
+    },
+    {
+        "nome do arquivo": "Daze Before Christmas",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Daze.Before.Christmas.zip"
+    },
+    {
+        "nome do arquivo": "Death and Return of Superman",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Death.and.Return.of.Superman.zip"
+    },
+    {
+        "nome do arquivo": "Demolition Man",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Demolition.Man.zip"
+    },
+    {
+        "nome do arquivo": "Demon's",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Demon.s.zip"
+    },
+    {
+        "nome do arquivo": "Dennis the Menace",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dennis.the.Menace.zip"
+    },
+    {
+        "nome do arquivo": "Der Langrisser",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Der.Langrisser.zip"
+    },
+    {
+        "nome do arquivo": "Desert Strike - Return to the Gulf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Desert.Strike.-.Return.to.the.Gulf.zip"
+    },
+    {
+        "nome do arquivo": "D-Force",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/D-Force.zip"
+    },
+    {
+        "nome do arquivo": "Dig & Spike Volleyball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dig.Spike.Volleyball.zip"
+    },
+    {
+        "nome do arquivo": "Dino City",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dino.City.zip"
+    },
+    {
+        "nome do arquivo": "Dino Dini's Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dino.Dini.s.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Dirt Racer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dirt.Racer.zip"
+    },
+    {
+        "nome do arquivo": "Dirt Trax FX",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dirt.Trax.FX.zip"
+    },
+    {
+        "nome do arquivo": "Donald Duck no Mahou no Boushi",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Donald.Duck.no.Mahou.no.Boushi.zip"
+    },
+    {
+        "nome do arquivo": "Donkey Kong Country - Competition Cart",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Donkey.Kong.Country.-.Competition.Cart.zip"
+    },
+    {
+        "nome do arquivo": "Donkey Kong Country I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Donkey.Kong.Country.I.zip"
+    },
+    {
+        "nome do arquivo": "Donkey Kong Country II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Donkey.Kong.Country.II.zip"
+    },
+    {
+        "nome do arquivo": "Donkey Kong Country III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Donkey.Kong.Country.III.zip"
+    },
+    {
+        "nome do arquivo": "Doom",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Doom.zip"
+    },
+    {
+        "nome do arquivo": "Doomsday Warrior",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Doomsday.Warrior.zip"
+    },
+    {
+        "nome do arquivo": "Do-Re-Mi Fantasy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Do-Re-Mi.Fantasy.zip"
+    },
+    {
+        "nome do arquivo": "Dossun! Stone Battle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dossun.Stone.Battle.zip"
+    },
+    {
+        "nome do arquivo": "Double Dragon V - The Shadow Falls",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Double.Dragon.V.-.The.Shadow.Falls.zip"
+    },
+    {
+        "nome do arquivo": "Dragon - The Bruce Lee Story",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.-.The.Bruce.Lee.Story.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Ball Z - Hyper Dimension",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Ball.Z.-.Hyper.Dimension.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Ball Z - Super Butouden I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Ball.Z.-.Super.Butouden.I.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Ball Z - Super Butouden II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Ball.Z.-.Super.Butouden.II.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Ball Z - Super Butouden III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Ball.Z.-.Super.Butouden.III.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Ball Z - Super Densetsu",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Ball.Z.-.Super.Densetsu.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Ball Z - Super Kakusei Hen",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Ball.Z.-.Super.Kakusei.Hen.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Quest I & II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Quest.I.II.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Quest III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Quest.III.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Quest V",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Quest.V.zip"
+    },
+    {
+        "nome do arquivo": "Dragon Quest VI",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.Quest.VI.zip"
+    },
+    {
+        "nome do arquivo": "Dragon View",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.View.zip"
+    },
+    {
+        "nome do arquivo": "Dragon's Lair",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dragon.s.Lair.zip"
+    },
+    {
+        "nome do arquivo": "Drakkhen",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Drakkhen.zip"
+    },
+    {
+        "nome do arquivo": "Dream Maze - The Kigurumi Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dream.Maze.-.The.Kigurumi.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Dream TV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dream.TV.zip"
+    },
+    {
+        "nome do arquivo": "Dual Orb II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dual.Orb.II.zip"
+    },
+    {
+        "nome do arquivo": "Dungeon Master",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Dungeon.Master.zip"
+    },
+    {
+        "nome do arquivo": "E.V.O. Search For Eden",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/E.V.O.Search.For.Eden.zip"
+    },
+    {
+        "nome do arquivo": "Earthbound",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Earthbound.zip"
+    },
+    {
+        "nome do arquivo": "Earthworm Jim - Gamesmaster",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Earthworm.Jim.-.Gamesmaster.zip"
+    },
+    {
+        "nome do arquivo": "Earthworm Jim I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Earthworm.Jim.I.zip"
+    },
+    {
+        "nome do arquivo": "Earthworm Jim II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Earthworm.Jim.II.zip"
+    },
+    {
+        "nome do arquivo": "Eek! The Cat",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Eek.The.Cat.zip"
+    },
+    {
+        "nome do arquivo": "Fire Emblem - Monshou no Nazo",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Fire.Emblem.-.Monshou.no.Nazo.zip"
+    },
+    {
+        "nome do arquivo": "Fire Striker",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Fire.Striker.zip"
+    },
+    {
+        "nome do arquivo": "Firemen",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Firemen.zip"
+    },
+    {
+        "nome do arquivo": "Firepower 2000",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Firepower.2000.zip"
+    },
+    {
+        "nome do arquivo": "Fireteam Rogue",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Fireteam.Rogue.zip"
+    },
+    {
+        "nome do arquivo": "First Samurai",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/First.Samurai.zip"
+    },
+    {
+        "nome do arquivo": "Flashback - The Quest for Identity",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Flashback.-.The.Quest.for.Identity.zip"
+    },
+    {
+        "nome do arquivo": "Flintstones - Treasure of Sierra Madro",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Flintstones.-.Treasure.of.Sierra.Madro.zip"
+    },
+    {
+        "nome do arquivo": "Flintstones",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Flintstones.zip"
+    },
+    {
+        "nome do arquivo": "Football Fury",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Football.Fury.zip"
+    },
+    {
+        "nome do arquivo": "Foreman For Real",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Foreman.For.Real.zip"
+    },
+    {
+        "nome do arquivo": "Frank Thomas' Big Hurt Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Frank.Thomas.Big.Hurt.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Frantic Flea",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Frantic.Flea.zip"
+    },
+    {
+        "nome do arquivo": "Frogger",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Frogger.zip"
+    },
+    {
+        "nome do arquivo": "Front Mission - Gun Hazard",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Front.Mission.zip"
+    },
+    {
+        "nome do arquivo": "Front Mission",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Front.Mission.zip"
+    },
+    {
+        "nome do arquivo": "Full Throttle Racing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Full.Throttle.Racing.zip"
+    },
+    {
+        "nome do arquivo": "Fun 'N Games",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Fun.N.Games.zip"
+    },
+    {
+        "nome do arquivo": "Funaki Masakatsu Hybrid Wrestler",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Funaki.Masakatsu.Hybrid.Wrestler.zip"
+    },
+    {
+        "nome do arquivo": "Gamars Puzzle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gamars.Puzzle.zip"
+    },
+    {
+        "nome do arquivo": "Ganbare! Daiku no Gen-san",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ganbare.Daiku.no.Gen-san.zip"
+    },
+    {
+        "nome do arquivo": "Ganpuru - Gunman's Proof",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ganpuru.-.Gunman.s.Proof.zip"
+    },
+    {
+        "nome do arquivo": "Gegege no Kitarou - Fukkatsu!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gegege.no.Kitarou.-.Fukkatsu.zip"
+    },
+    {
+        "nome do arquivo": "Gekitou Burning Pro Wrestling",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gekitou.Burning.Pro.Wrestling.zip"
+    },
+    {
+        "nome do arquivo": "Gemfire",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gemfire.zip"
+    },
+    {
+        "nome do arquivo": "Genghis Khan II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Genghis.Khan.II.zip"
+    },
+    {
+        "nome do arquivo": "Genocide II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Genocide.II.zip"
+    },
+    {
+        "nome do arquivo": "George Foreman's KO Boxing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/George.Foreman.s.KO.Boxing.zip"
+    },
+    {
+        "nome do arquivo": "Ghoul Patrol",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ghoul.Patrol.zip"
+    },
+    {
+        "nome do arquivo": "Go Go Ackman II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Go.Go.Ackman.II.zip"
+    },
+    {
+        "nome do arquivo": "Go Go Ackman III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Go.Go.Ackman.III.zip"
+    },
+    {
+        "nome do arquivo": "Go Go Ackman",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Go.Go.Ackman.zip"
+    },
+    {
+        "nome do arquivo": "Gods",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gods.zip"
+    },
+    {
+        "nome do arquivo": "Godzilla - Kaijuu Daikessen",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Godzilla.-.Kaijuu.Daikessen.zip"
+    },
+    {
+        "nome do arquivo": "Gokujou Parodius",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gokujou.Parodius.zip"
+    },
+    {
+        "nome do arquivo": "Goof Troop",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Goof.Troop.zip"
+    },
+    {
+        "nome do arquivo": "Gourmet Sentai - Bara Yarou",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gourmet.Sentai.-.Bara.Yarou.zip"
+    },
+    {
+        "nome do arquivo": "GP-1 - Part II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/GP-1.-.Part.II.zip"
+    },
+    {
+        "nome do arquivo": "GP-1",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/GP-1.zip"
+    },
+    {
+        "nome do arquivo": "Gradius III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gradius.III.zip"
+    },
+    {
+        "nome do arquivo": "Great Battle II - Last Fighter Twin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Great.Battle.II.-.Last.Fighter.Twin.zip"
+    },
+    {
+        "nome do arquivo": "Great Circus Mystery Starring Mickey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Great.Circus.Mystery.Starring.Mickey.zip"
+    },
+    {
+        "nome do arquivo": "Great Waldo Search",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Great.Waldo.Search.zip"
+    },
+    {
+        "nome do arquivo": "Gulliver Boy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gulliver.Boy.zip"
+    },
+    {
+        "nome do arquivo": "Gundam Wing - Endless Duel",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gundam.Wing.-.Endless.Duel.zip"
+    },
+    {
+        "nome do arquivo": "Gunforce - Battle Fire Engulfed Terror",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Gunforce.-.Battle.Fire.Engulfed.Terror.zip"
+    },
+    {
+        "nome do arquivo": "Hagane",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hagane.zip"
+    },
+    {
+        "nome do arquivo": "HAL's Hole In One Golf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/HAL.s.Hole.In.One.Golf.zip"
+    },
+    {
+        "nome do arquivo": "Hammerlock Wrestling",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hammerlock.Wrestling.zip"
+    },
+    {
+        "nome do arquivo": "Hanna Barbera's Turbo Toons",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hanna.Barbera.s.Turbo.Toons.zip"
+    },
+    {
+        "nome do arquivo": "Hardball III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hardball.III.zip"
+    },
+    {
+        "nome do arquivo": "Harley's Humongous Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Harley.s.Humongous.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Harvest Moon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Harvest.Moon.zip"
+    },
+    {
+        "nome do arquivo": "Head-On Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Head-On.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Hebereke's Popoitto",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hebereke.s.Popoitto.zip"
+    },
+    {
+        "nome do arquivo": "Hebereke's Popoon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hebereke.s.Popoon.zip"
+    },
+    {
+        "nome do arquivo": "Heisei Inu Monogatari Bow",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Heisei.Inu.Monogatari.Bow.zip"
+    },
+    {
+        "nome do arquivo": "Herakles no Eikou III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Herakles.no.Eikou.III.zip"
+    },
+    {
+        "nome do arquivo": "Hiouden - Legend of the Scarlet King",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hiouden.-.Legend.of.the.Scarlet.King.zip"
+    },
+    {
+        "nome do arquivo": "Hit the Ice",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hit.the.Ice.zip"
+    },
+    {
+        "nome do arquivo": "Hokuto no Ken 6",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hokuto.no.Ken.6.zip"
+    },
+    {
+        "nome do arquivo": "Hokuto no Ken 7",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hokuto.no.Ken.7.zip"
+    },
+    {
+        "nome do arquivo": "Holy Umbrella - Dondera's Wild!!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Holy.Umbrella.-.Dondera.s.Wild.zip"
+    },
+    {
+        "nome do arquivo": "Home Alone I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Home.Alone.I.zip"
+    },
+    {
+        "nome do arquivo": "Home Alone II - Lost in New York",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Home.Alone.II.-.Lost.in.New.York.zip"
+    },
+    {
+        "nome do arquivo": "Home Improvement",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Home.Improvement.zip"
+    },
+    {
+        "nome do arquivo": "Honoo no Doukyuuji - Dodge Danpei",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Honoo.no.Doukyuuji.-.Dodge.Danpei.zip"
+    },
+    {
+        "nome do arquivo": "Hook",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hook.zip"
+    },
+    {
+        "nome do arquivo": "Humans",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Humans.zip"
+    },
+    {
+        "nome do arquivo": "Hungry Dinosaurs",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hungry.Dinosaurs.zip"
+    },
+    {
+        "nome do arquivo": "Hunt for Red October",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hunt.for.Red.October.zip"
+    },
+    {
+        "nome do arquivo": "Hurricanes",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hurricanes.zip"
+    },
+    {
+        "nome do arquivo": "Hyper V-ball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hyper.V-ball.zip"
+    },
+    {
+        "nome do arquivo": "Hyper Zone",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Hyper.Zone.zip"
+    },
+    {
+        "nome do arquivo": "Ignition Factor",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Ignition.Factor.zip"
+    },
+    {
+        "nome do arquivo": "Illusion Of Gaia",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Illusion.Of.Gaia.zip"
+    },
+    {
+        "nome do arquivo": "Imperium",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Imperium.zip"
+    },
+    {
+        "nome do arquivo": "Incantation",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Incantation.zip"
+    },
+    {
+        "nome do arquivo": "Incredible Crash Dummies",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Incredible.Crash.Dummies.zip"
+    },
+    {
+        "nome do arquivo": "Incredible Hulk",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Incredible.Hulk.zip"
+    },
+    {
+        "nome do arquivo": "Indiana Jones' Greatest Adventures",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Indiana.Jones.Greatest.Adventures.zip"
+    },
+    {
+        "nome do arquivo": "Inindo - Way of the Ninja",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Inindo.-.Way.of.the.Ninja.zip"
+    },
+    {
+        "nome do arquivo": "Inspector Gadget",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Inspector.Gadget.zip"
+    },
+    {
+        "nome do arquivo": "International Superstar Soccer Deluxe",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/International.Superstar.Soccer.Deluxe.zip"
+    },
+    {
+        "nome do arquivo": "International Superstar Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/International.Superstar.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "International Tennis Tour",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/International.Tennis.Tour.zip"
+    },
+    {
+        "nome do arquivo": "Irem Skins Game",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Irem.Skins.Game.zip"
+    },
+    {
+        "nome do arquivo": "Iron Commando",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Iron.Commando.zip"
+    },
+    {
+        "nome do arquivo": "Itchy & Scratchy Game",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Itchy.Scratchy.Game.zip"
+    },
+    {
+        "nome do arquivo": "Izzy's Quest for the Olympic Rings",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Izzy.s.Quest.for.the.Olympic.Rings.zip"
+    },
+    {
+        "nome do arquivo": "Jack Nicklaus Golf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jack.Nicklaus.Golf.zip"
+    },
+    {
+        "nome do arquivo": "Jaleco Rally - Big Run",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jaleco.Rally.-.Big.Run.zip"
+    },
+    {
+        "nome do arquivo": "James Bond Jr",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/James.Bond.Jr.zip"
+    },
+    {
+        "nome do arquivo": "James Pond III - Operation Starfish",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/James.Pond.III.-.Operation.Starfish.zip"
+    },
+    {
+        "nome do arquivo": "Jammit",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jammit.zip"
+    },
+    {
+        "nome do arquivo": "Jelly Boy I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jelly.Boy.I.zip"
+    },
+    {
+        "nome do arquivo": "Jelly Boy II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jelly.Boy.II.zip"
+    },
+    {
+        "nome do arquivo": "Jeopardy! Deluxe Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jeopardy.Deluxe.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Jeopardy! Sports Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jeopardy.Sports.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Jeopardy!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jeopardy.zip"
+    },
+    {
+        "nome do arquivo": "Jerry Boy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jerry.Boy.zip"
+    },
+    {
+        "nome do arquivo": "Jetsons",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jetsons.zip"
+    },
+    {
+        "nome do arquivo": "Jikkyou Oshaberi Parodius",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jikkyou.Oshaberi.Parodius.zip"
+    },
+    {
+        "nome do arquivo": "Jikkyou Power Pro Wrestling '96",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jikkyou.Power.Pro.Wrestling.96.zip"
+    },
+    {
+        "nome do arquivo": "Jim Lee's WildCATS",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jim.Lee.s.WildCATS.zip"
+    },
+    {
+        "nome do arquivo": "Jim Power - The Lost Dimension in 3D",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jim.Power.-.The.Lost.Dimension.in.3D.zip"
+    },
+    {
+        "nome do arquivo": "Jimmy Connors Pro Tennis Tour",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jimmy.Connors.Pro.Tennis.Tour.zip"
+    },
+    {
+        "nome do arquivo": "Jimmy Houston's Bass Tournament USA",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jimmy.Houston.s.Bass.Tournament.USA.zip"
+    },
+    {
+        "nome do arquivo": "Joe & Mac I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Joe.Mac.I.zip"
+    },
+    {
+        "nome do arquivo": "Joe & Mac II - Lost in the Tropics",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Joe.Mac.II.-.Lost.in.the.Tropics.zip"
+    },
+    {
+        "nome do arquivo": "John Madden Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/John.Madden.Football.zip"
+    },
+    {
+        "nome do arquivo": "Judge Dredd",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Judge.Dredd.zip"
+    },
+    {
+        "nome do arquivo": "Jungle Book",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jungle.Book.zip"
+    },
+    {
+        "nome do arquivo": "Jungle Strike",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jungle.Strike.zip"
+    },
+    {
+        "nome do arquivo": "Jurassic Park I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jurassic.Park.I.zip"
+    },
+    {
+        "nome do arquivo": "Jurassic Park II - The Chaos Continues",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jurassic.Park.II.-.The.Chaos.Continues.zip"
+    },
+    {
+        "nome do arquivo": "Justice League Task Force",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Justice.League.Task.Force.zip"
+    },
+    {
+        "nome do arquivo": "Jutei Senki",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s/Jutei.Senki.zip"
+    },
+    {
+        "nome do arquivo": "JWP Joshi Pro Wrestling",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/JWP.Joshi.Pro.Wrestling.zip"
+    },
+    {
+        "nome do arquivo": "Kablooey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kablooey.zip"
+    },
+    {
+        "nome do arquivo": "Kamen Rider SD",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kamen.Rider.SD.zip"
+    },
+    {
+        "nome do arquivo": "Kamen Rider",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kamen.Rider.zip"
+    },
+    {
+        "nome do arquivo": "Kat's Run",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kat.s.Run.zip"
+    },
+    {
+        "nome do arquivo": "Kawasaki Carribean Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kawasaki.Carribean.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "Kawasaki Superbike Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kawasaki.Superbike.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "Keeper",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Keeper.zip"
+    },
+    {
+        "nome do arquivo": "Ken Griffey Jr. Presents Major League",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Ken.Griffey.Jr.Presents.Major.League.zip"
+    },
+    {
+        "nome do arquivo": "Ken Griffey Jr.'s Winning Run",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Ken.Griffey.Jr.s.Winning.Run.zip"
+    },
+    {
+        "nome do arquivo": "Kendo Rage",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kendo.Rage.zip"
+    },
+    {
+        "nome do arquivo": "Kevin Keegan's Player Manager",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kevin.Keegan.s.Player.Manager.zip"
+    },
+    {
+        "nome do arquivo": "Kick Off I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kick.Off.I.zip"
+    },
+    {
+        "nome do arquivo": "Kick Off III - European Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kick.Off.III.-.European.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "Kid Klown in Crazy Chase",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kid.Klown.in.Crazy.Chase.zip"
+    },
+    {
+        "nome do arquivo": "Killer Instinct",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Killer.Instinct.zip"
+    },
+    {
+        "nome do arquivo": "King Arthur & The Knights of Justice",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/King.Arthur.The.Knights.of.Justice.zip"
+    },
+    {
+        "nome do arquivo": "King Arthur's World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/King.Arthur.s.World.zip"
+    },
+    {
+        "nome do arquivo": "King of Demons (Majuu Ou)",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/King.of.Demons.Majuu.Ou.zip"
+    },
+    {
+        "nome do arquivo": "King of Dragons",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/King.of.Dragons.zip"
+    },
+    {
+        "nome do arquivo": "King of the Monsters I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/King.of.the.Monsters.I.zip"
+    },
+    {
+        "nome do arquivo": "King Of The Monsters II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/King.Of.The.Monsters.II.zip"
+    },
+    {
+        "nome do arquivo": "Kirby no Omochabako - Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kirby.no.Omochabako.-.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Kirby no Omochabako - Pinball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kirby.no.Omochabako.-.Pinball.zip"
+    },
+    {
+        "nome do arquivo": "Kirby Super Star",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kirby.Super.Star.zip"
+    },
+    {
+        "nome do arquivo": "Kirby's Avalanche",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kirby.s.Avalanche.zip"
+    },
+    {
+        "nome do arquivo": "Kirby's Dream Course",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kirby.s.Dream.Course.zip"
+    },
+    {
+        "nome do arquivo": "Kirby's Dream Land III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kirby.s.Dream.Land.III.zip"
+    },
+    {
+        "nome do arquivo": "Kishin Douji Zenki - Battle Raiden",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kishin.Douji.Zenki.-.Battle.Raiden.zip"
+    },
+    {
+        "nome do arquivo": "Knights of the Round",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Knights.of.the.Round.zip"
+    },
+    {
+        "nome do arquivo": "Kouryuu no Mimi",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kouryuu.no.Mimi.zip"
+    },
+    {
+        "nome do arquivo": "Krusty's Super Fun House",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Krusty.s.Super.Fun.House.zip"
+    },
+    {
+        "nome do arquivo": "Kunio's Dodgeball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kunio.s.Dodgeball.zip"
+    },
+    {
+        "nome do arquivo": "Kyle Petty's No Fear Racing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Kyle.Petty.s.No.Fear.Racing.zip"
+    },
+    {
+        "nome do arquivo": "Lagoon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lagoon.zip"
+    },
+    {
+        "nome do arquivo": "Lamborghini - American Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lamborghini.-.American.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "Laplace no Ma",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Laplace.no.Ma.zip"
+    },
+    {
+        "nome do arquivo": "Last Action Hero",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Last.Action.Hero.zip"
+    },
+    {
+        "nome do arquivo": "Lawnmower Man",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lawnmower.Man.zip"
+    },
+    {
+        "nome do arquivo": "Legend of the Mystical Ninja",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Legend.of.the.Mystical.Ninja.zip"
+    },
+    {
+        "nome do arquivo": "Legend of Zelda - A Link to the Past",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Legend.of.Zelda.-.A.Link.to.the.Past.zip"
+    },
+    {
+        "nome do arquivo": "Legend of Zelda - Map 1",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Legend.of.Zelda.-.Map.1.zip"
+    },
+    {
+        "nome do arquivo": "Legend of Zelda - Map 2",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Legend.of.Zelda.-.Map.2.zip"
+    },
+    {
+        "nome do arquivo": "Legend",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Legend.zip"
+    },
+    {
+        "nome do arquivo": "Lemmings I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lemmings.I.zip"
+    },
+    {
+        "nome do arquivo": "Lemmings II - The Tribes",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lemmings.II.-.The.Tribes.zip"
+    },
+    {
+        "nome do arquivo": "Lennus II - Apostles of the Seals",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lennus.II.-.Apostles.of.the.Seals.zip"
+    },
+    {
+        "nome do arquivo": "Lester the Unlikely",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lester.the.Unlikely.zip"
+    },
+    {
+        "nome do arquivo": "Lethal Enforcers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lethal.Enforcers.zip"
+    },
+    {
+        "nome do arquivo": "Lethal Weapon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lethal.Weapon.zip"
+    },
+    {
+        "nome do arquivo": "Liberty or Death",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Liberty.or.Death.zip"
+    },
+    {
+        "nome do arquivo": "Lion King",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lion.King.zip"
+    },
+    {
+        "nome do arquivo": "Little Magic",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Little.Magic.zip"
+    },
+    {
+        "nome do arquivo": "Live A Live",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Live.A.Live.zip"
+    },
+    {
+        "nome do arquivo": "Lock On",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lock.On.zip"
+    },
+    {
+        "nome do arquivo": "Looney Tunes Basketball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Looney.Tunes.Basketball.zip"
+    },
+    {
+        "nome do arquivo": "Lord of the Rings - Volume I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lord.of.the.Rings.-.Volume.I.zip"
+    },
+    {
+        "nome do arquivo": "Lost Vikings I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lost.Vikings.I.zip"
+    },
+    {
+        "nome do arquivo": "Lost Vikings II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lost.Vikings.II.zip"
+    },
+    {
+        "nome do arquivo": "Lucky Luke",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lucky.Luke.zip"
+    },
+    {
+        "nome do arquivo": "Lufia I - The Fortress of Doom",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lufia.I.-.The.Fortress.of.Doom.zip"
+    },
+    {
+        "nome do arquivo": "Lufia II - Rise of the Sinistrals",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Lufia.II.-.Rise.of.the.Sinistrals.zip"
+    },
+    {
+        "nome do arquivo": "Madou Monogatari",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Madou.Monogatari.zip"
+    },
+    {
+        "nome do arquivo": "Maerchen Adventure Cotton 100",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Maerchen.Adventure.Cotton.100.zip"
+    },
+    {
+        "nome do arquivo": "Magic Boy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magic.Boy.zip"
+    },
+    {
+        "nome do arquivo": "Magic Knight Rayearth",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magic.Knight.Rayearth.zip"
+    },
+    {
+        "nome do arquivo": "Magic Sword",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magic.Sword.zip"
+    },
+    {
+        "nome do arquivo": "Magical Drop",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magical.Drop.zip"
+    },
+    {
+        "nome do arquivo": "Magical Land of Wozz",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magical.Land.of.Wozz.zip"
+    },
+    {
+        "nome do arquivo": "Magical Pop'n",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magical.Pop.n.zip"
+    },
+    {
+        "nome do arquivo": "Magical Quest Starring Mickey Mouse",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magical.Quest.Starring.Mickey.Mouse.zip"
+    },
+    {
+        "nome do arquivo": "Magna Braban - Henreki no Yuusha",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Magna.Braban.-.Henreki.no.Yuusha.zip"
+    },
+    {
+        "nome do arquivo": "Manchester United Championship Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Manchester.United.Championship.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Mario & Wario",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.Wario.zip"
+    },
+    {
+        "nome do arquivo": "Mario is Missing!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.is.Missing.zip"
+    },
+    {
+        "nome do arquivo": "Mario Paint",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.Paint.zip"
+    },
+    {
+        "nome do arquivo": "Mario's Early Years - Fun With Letters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.s.Early.Years.-.Fun.With.Letters.zip"
+    },
+    {
+        "nome do arquivo": "Mario's Early Years - Fun With Numbers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.s.Early.Years.-.Fun.With.Numbers.zip"
+    },
+    {
+        "nome do arquivo": "Mario's Early Years - Preschool Fun",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.s.Early.Years.-.Preschool.Fun.zip"
+    },
+    {
+        "nome do arquivo": "Mario's Time Machine",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mario.s.Time.Machine.zip"
+    },
+    {
+        "nome do arquivo": "Mark Davis' The Fishing Master",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mark.Davis.The.Fishing.Master.zip"
+    },
+    {
+        "nome do arquivo": "Marko's Magic Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Marko.s.Magic.Football.zip"
+    },
+    {
+        "nome do arquivo": "Marvel Super Heroes - War of the Gems",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Marvel.Super.Heroes.-.War.of.the.Gems.zip"
+    },
+    {
+        "nome do arquivo": "Mary Shelley's Frankenstein",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mary.Shelley.s.Frankenstein.zip"
+    },
+    {
+        "nome do arquivo": "Mask",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mask.zip"
+    },
+    {
+        "nome do arquivo": "Math Blaster - Episode I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Math.Blaster.-.Episode.I.zip"
+    },
+    {
+        "nome do arquivo": "Maui Mallard in Cold Shadow",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Maui.Mallard.in.Cold.Shadow.zip"
+    },
+    {
+        "nome do arquivo": "Mecarobot Golf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mecarobot.Golf.zip"
+    },
+    {
+        "nome do arquivo": "Mechwarrior 3050",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mechwarrior.3050.zip"
+    },
+    {
+        "nome do arquivo": "Mechwarrior",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mechwarrior.zip"
+    },
+    {
+        "nome do arquivo": "Mega lo Mania",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mega.lo.Mania.zip"
+    },
+    {
+        "nome do arquivo": "Mega Man Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mega.Man.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Mega Man VII",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mega.Man.VII.zip"
+    },
+    {
+        "nome do arquivo": "Mega Man X1",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mega.Man.X1.zip"
+    },
+    {
+        "nome do arquivo": "Mega Man X2",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mega.Man.X2.zip"
+    },
+    {
+        "nome do arquivo": "Mega Man X3",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mega.Man.X3.zip"
+    },
+    {
+        "nome do arquivo": "Metal Combat - Falcon's Revenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Metal.Combat.-.Falcon.s.Revenge.zip"
+    },
+    {
+        "nome do arquivo": "Metal Marines",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Metal.Marines.zip"
+    },
+    {
+        "nome do arquivo": "Metal Max Returns",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Metal.Max.Returns.zip"
+    },
+    {
+        "nome do arquivo": "Metal Morph",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Metal.Morph.zip"
+    },
+    {
+        "nome do arquivo": "Metal Warriors",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Metal.Warriors.zip"
+    },
+    {
+        "nome do arquivo": "Michael Andretti's Indy Car Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Michael.Andretti.s.Indy.Car.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "Michael Jordan Chaos in the Windy City",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Michael.Jordan.Chaos.in.the.Windy.City.zip"
+    },
+    {
+        "nome do arquivo": "Mick & Mack as the Global Gladiators",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mick.Mack.as.the.Global.Gladiators.zip"
+    },
+    {
+        "nome do arquivo": "Mickey Mania",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mickey.Mania.zip"
+    },
+    {
+        "nome do arquivo": "Mickey to Donald - Magical Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mickey.to.Donald.-.Magical.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Mickey's Playtown Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mickey.s.Playtown.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Mickey's Ultimate Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mickey.s.Ultimate.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "Micro Machines I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Micro.Machines.I.zip"
+    },
+    {
+        "nome do arquivo": "Micro Machines II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Micro.Machines.II.zip"
+    },
+    {
+        "nome do arquivo": "Might and Magic II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Might.and.Magic.II.zip"
+    },
+    {
+        "nome do arquivo": "Might and Magic III - Isles of Terra",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Might.and.Magic.III.-.Isles.of.Terra.zip"
+    },
+    {
+        "nome do arquivo": "Mighty Max",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mighty.Max.zip"
+    },
+    {
+        "nome do arquivo": "Mighty Morphin Power Rangers - FE",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mighty.Morphin.Power.Rangers.-.FE.zip"
+    },
+    {
+        "nome do arquivo": "Mighty Morphin Power Rangers - Movie",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mighty.Morphin.Power.Rangers.-.Movie.zip"
+    },
+    {
+        "nome do arquivo": "Mighty Morphin Power Rangers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mighty.Morphin.Power.Rangers.zip"
+    },
+    {
+        "nome do arquivo": "Miracle Girls",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Miracle.Girls.zip"
+    },
+    {
+        "nome do arquivo": "MLBPA Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/MLBPA.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Mobile Fighter G Gundam",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mobile.Fighter.G.Gundam.zip"
+    },
+    {
+        "nome do arquivo": "Mobile Suit Gundam - Cross Dimension",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mobile.Suit.Gundam.-.Cross.Dimension.zip"
+    },
+    {
+        "nome do arquivo": "Mobile Suit V-Gundam",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mobile.Suit.V-Gundam.zip"
+    },
+    {
+        "nome do arquivo": "MoHawk & Headphone Jack",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/MoHawk.Headphone.Jack.zip"
+    },
+    {
+        "nome do arquivo": "Monopoly",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Monopoly.zip"
+    },
+    {
+        "nome do arquivo": "Monstania",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Monstania.zip"
+    },
+    {
+        "nome do arquivo": "Mortal Kombat I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mortal.Kombat.I.zip"
+    },
+    {
+        "nome do arquivo": "Mortal Kombat II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mortal.Kombat.II.zip"
+    },
+    {
+        "nome do arquivo": "Mortal Kombat III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mortal.Kombat.III.zip"
+    },
+    {
+        "nome do arquivo": "Mother 2-5 - The Giftman Chronicles",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mother.2-5.-.The.Giftman.Chronicles.zip"
+    },
+    {
+        "nome do arquivo": "Mr Bloopy Saves the World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mr.Bloopy.Saves.the.World.zip"
+    },
+    {
+        "nome do arquivo": "Mr. Do!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mr.Do.zip"
+    },
+    {
+        "nome do arquivo": "Mr. Nutz",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mr.Nutz.zip"
+    },
+    {
+        "nome do arquivo": "Mr. Tuff",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mr.Tuff.zip"
+    },
+    {
+        "nome do arquivo": "Ms. Pac-man",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Ms.Pac-man.zip"
+    },
+    {
+        "nome do arquivo": "Muhammad Ali Heavyweight Boxing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Muhammad.Ali.Heavyweight.Boxing.zip"
+    },
+    {
+        "nome do arquivo": "Musya",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Musya.zip"
+    },
+    {
+        "nome do arquivo": "Mutant Chronicles - Doom Troopers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mutant.Chronicles.-.Doom.Troopers.zip"
+    },
+    {
+        "nome do arquivo": "Mysterious Dungeon II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mysterious.Dungeon.II.zip"
+    },
+    {
+        "nome do arquivo": "Mystic Ark",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Mystic.Ark.zip"
+    },
+    {
+        "nome do arquivo": "Nankoku Shounen Papuwa-kun",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nankoku.Shounen.Papuwa-kun.zip"
+    },
+    {
+        "nome do arquivo": "Natsume Championship Wrestling",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Natsume.Championship.Wrestling.zip"
+    },
+    {
+        "nome do arquivo": "Naxat Super Pinball - Jaki Crush",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Naxat.Super.Pinball.-.Jaki.Crush.zip"
+    },
+    {
+        "nome do arquivo": "NBA All-Star Challenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.All-Star.Challenge.zip"
+    },
+    {
+        "nome do arquivo": "NBA Give 'N Go",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Give.N.Go.zip"
+    },
+    {
+        "nome do arquivo": "NBA Hang Time",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Hang.Time.zip"
+    },
+    {
+        "nome do arquivo": "NBA Jam - Tournament Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Jam.-.Tournament.Edition.zip"
+    },
+    {
+        "nome do arquivo": "NBA Jam",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Jam.zip"
+    },
+    {
+        "nome do arquivo": "NBA Live '95",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Live.95.zip"
+    },
+    {
+        "nome do arquivo": "NBA Live '96",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Live.96.zip"
+    },
+    {
+        "nome do arquivo": "Nba Live '97",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nba.Live.97.zip"
+    },
+    {
+        "nome do arquivo": "NBA Live '98",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Live.98.zip"
+    },
+    {
+        "nome do arquivo": "NBA Showdown",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NBA.Showdown.zip"
+    },
+    {
+        "nome do arquivo": "NCAA Basketball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NCAA.Basketball.zip"
+    },
+    {
+        "nome do arquivo": "NCAA Final Four Basketball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NCAA.Final.Four.Basketball.zip"
+    },
+    {
+        "nome do arquivo": "NCAA Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NCAA.Football.zip"
+    },
+    {
+        "nome do arquivo": "Network Q Rally",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Network.Q.Rally.zip"
+    },
+    {
+        "nome do arquivo": "Neugier",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Neugier.zip"
+    },
+    {
+        "nome do arquivo": "Newman-Hass Indy Car",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Newman-Hass.Indy.Car.zip"
+    },
+    {
+        "nome do arquivo": "NFL Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NFL.Football.zip"
+    },
+    {
+        "nome do arquivo": "NFL Quarterback Club '96",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NFL.Quarterback.Club.96.zip"
+    },
+    {
+        "nome do arquivo": "NFL Quarterback Club",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NFL.Quarterback.Club.zip"
+    },
+    {
+        "nome do arquivo": "NHL '94",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHL.94.zip"
+    },
+    {
+        "nome do arquivo": "NHL '95",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHL.95.zip"
+    },
+    {
+        "nome do arquivo": "NHL '96",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHL.96.zip"
+    },
+    {
+        "nome do arquivo": "NHL '97",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHL.97.zip"
+    },
+    {
+        "nome do arquivo": "NHL '98",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHL.98.zip"
+    },
+    {
+        "nome do arquivo": "NHL Stanley Cup",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHL.Stanley.Cup.zip"
+    },
+    {
+        "nome do arquivo": "NHLPA Hockey '93",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/NHLPA.Hockey.93.zip"
+    },
+    {
+        "nome do arquivo": "Nickelodeon GUTS",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nickelodeon.GUTS.zip"
+    },
+    {
+        "nome do arquivo": "Nigel Mansells World Championship Race",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nigel.Mansells.World.Championship.Race.zip"
+    },
+    {
+        "nome do arquivo": "Nightmare Busters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nightmare.Busters.zip"
+    },
+    {
+        "nome do arquivo": "Ninja Gaiden Trilogy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Ninja.Gaiden.Trilogy.zip"
+    },
+    {
+        "nome do arquivo": "Ninja Warriors",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Ninja.Warriors.zip"
+    },
+    {
+        "nome do arquivo": "No Escape",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/No.Escape.zip"
+    },
+    {
+        "nome do arquivo": "Nobunaga's Ambition - Lord of Darkness",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nobunaga.s.Ambition.-.Lord.of.Darkness.zip"
+    },
+    {
+        "nome do arquivo": "Nobunaga's Ambition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nobunaga.s.Ambition.zip"
+    },
+    {
+        "nome do arquivo": "Nolan Ryan's Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nolan.Ryan.s.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Nosferatu",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Nosferatu.zip"
+    },
+    {
+        "nome do arquivo": "Obitus",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Obitus.zip"
+    },
+    {
+        "nome do arquivo": "Ogre Battle - March of the Black Queen",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Ogre.Battle.-.March.of.the.Black.Queen.zip"
+    },
+    {
+        "nome do arquivo": "Olympic Summer Games '96",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Olympic.Summer.Games.96.zip"
+    },
+    {
+        "nome do arquivo": "On the Ball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/On.the.Ball.zip"
+    },
+    {
+        "nome do arquivo": "Operation Europe - Path to Victory",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Operation.Europe.-.Path.to.Victory.zip"
+    },
+    {
+        "nome do arquivo": "Operation Logic Bomb",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Operation.Logic.Bomb.zip"
+    },
+    {
+        "nome do arquivo": "Operation Thunderbolt",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Operation.Thunderbolt.zip"
+    },
+    {
+        "nome do arquivo": "Oscar",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Oscar.zip"
+    },
+    {
+        "nome do arquivo": "Out Of This World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Out.Of.This.World.zip"
+    },
+    {
+        "nome do arquivo": "Out to Lunch",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Out.to.Lunch.zip"
+    },
+    {
+        "nome do arquivo": "Outlander",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Outlander.zip"
+    },
+    {
+        "nome do arquivo": "Pac-Attack",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s2/Pac-Attack.zip"
+    },
+    {
+        "nome do arquivo": "Pac-In-Time",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pac-In-Time.zip"
+    },
+    {
+        "nome do arquivo": "Pac-Man II - The New Adventures",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pac-Man.II.-.The.New.Adventures.zip"
+    },
+    {
+        "nome do arquivo": "Pacific Theater of Operations I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pacific.Theater.of.Operations.I.zip"
+    },
+    {
+        "nome do arquivo": "Pacific Theater of Operations II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pacific.Theater.of.Operations.II.zip"
+    },
+    {
+        "nome do arquivo": "Packy & Marlon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Packy.Marlon.zip"
+    },
+    {
+        "nome do arquivo": "Pagemaster",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pagemaster.zip"
+    },
+    {
+        "nome do arquivo": "Paladin's Quest",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Paladin.s.Quest.zip"
+    },
+    {
+        "nome do arquivo": "Panel de Pon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Panel.de.Pon.zip"
+    },
+    {
+        "nome do arquivo": "Panic in Nakayoshi World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Panic.in.Nakayoshi.World.zip"
+    },
+    {
+        "nome do arquivo": "Paperboy II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Paperboy.II.zip"
+    },
+    {
+        "nome do arquivo": "Parodius - Non-Sense Fantasy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Parodius.-.Non-Sense.Fantasy.zip"
+    },
+    {
+        "nome do arquivo": "Peace Keepers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Peace.Keepers.zip"
+    },
+    {
+        "nome do arquivo": "Pebble Beach Golf Links",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pebble.Beach.Golf.Links.zip"
+    },
+    {
+        "nome do arquivo": "PGA European Tour",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/PGA.European.Tour.zip"
+    },
+    {
+        "nome do arquivo": "PGA Tour '96",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/PGA.Tour.96.zip"
+    },
+    {
+        "nome do arquivo": "PGA Tour Golf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/PGA.Tour.Golf.zip"
+    },
+    {
+        "nome do arquivo": "Phalanx - The Enforce Fighter A-144",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Phalanx.-.The.Enforce.Fighter.A-144.zip"
+    },
+    {
+        "nome do arquivo": "Phantom 2040",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Phantom.2040.zip"
+    },
+    {
+        "nome do arquivo": "Picachu",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Picachu.zip"
+    },
+    {
+        "nome do arquivo": "Pieces",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pieces.zip"
+    },
+    {
+        "nome do arquivo": "Pilotwings",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pilotwings.zip"
+    },
+    {
+        "nome do arquivo": "Pinball Dreams",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pinball.Dreams.zip"
+    },
+    {
+        "nome do arquivo": "Pinball Fantasies",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pinball.Fantasies.zip"
+    },
+    {
+        "nome do arquivo": "Pink Panther in Pink Goes to Hollywood",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pink.Panther.in.Pink.Goes.to.Hollywood.zip"
+    },
+    {
+        "nome do arquivo": "Pinocchio",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pinocchio.zip"
+    },
+    {
+        "nome do arquivo": "Pipe Dream",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pipe.Dream.zip"
+    },
+    {
+        "nome do arquivo": "Pirates of Dark Water",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pirates.of.Dark.Water.zip"
+    },
+    {
+        "nome do arquivo": "Pit Fighter",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pit.Fighter.zip"
+    },
+    {
+        "nome do arquivo": "Pitfall - The Mayan Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pitfall.-.The.Mayan.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Plok!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Plok.zip"
+    },
+    {
+        "nome do arquivo": "Pocky & Rocky I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pocky.Rocky.I.zip"
+    },
+    {
+        "nome do arquivo": "Pocky & Rocky II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pocky.Rocky.II.zip"
+    },
+    {
+        "nome do arquivo": "Pokemon Stadium",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pokemon.Stadium.zip"
+    },
+    {
+        "nome do arquivo": "Popeye-Tale of Teasing Witch Sea Hag",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Popeye-Tale.of.Teasing.Witch.Sea.Hag.zip"
+    },
+    {
+        "nome do arquivo": "Pop'n Twinbee - Rainbow Bell Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pop.n.Twinbee.-.Rainbow.Bell.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Pop'n Twinbee",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pop.n.Twinbee.zip"
+    },
+    {
+        "nome do arquivo": "Populous I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Populous.I.zip"
+    },
+    {
+        "nome do arquivo": "Populous II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Populous.II.zip"
+    },
+    {
+        "nome do arquivo": "Porky Pig's Haunted Holiday",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Porky.Pig.s.Haunted.Holiday.zip"
+    },
+    {
+        "nome do arquivo": "Power Drive",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Power.Drive.zip"
+    },
+    {
+        "nome do arquivo": "Power Instinct",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Power.Instinct.zip"
+    },
+    {
+        "nome do arquivo": "Power Moves",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Power.Moves.zip"
+    },
+    {
+        "nome do arquivo": "Power Piggs of the Dark Age",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Power.Piggs.of.the.Dark.Age.zip"
+    },
+    {
+        "nome do arquivo": "Power Rangers Zeo - Battle Racers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Power.Rangers.Zeo.-.Battle.Racers.zip"
+    },
+    {
+        "nome do arquivo": "PowerMonger",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/PowerMonger.zip"
+    },
+    {
+        "nome do arquivo": "Prehistorik Man",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Prehistorik.Man.zip"
+    },
+    {
+        "nome do arquivo": "Pretty Soldier Sailor Moon R",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pretty.Soldier.Sailor.Moon.R.zip"
+    },
+    {
+        "nome do arquivo": "Pretty Soldier Sailor Moon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pretty.Soldier.Sailor.Moon.zip"
+    },
+    {
+        "nome do arquivo": "Primal Rage",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Primal.Rage.zip"
+    },
+    {
+        "nome do arquivo": "Prime",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Prime.zip"
+    },
+    {
+        "nome do arquivo": "Prince of Persia I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Prince.of.Persia.I.zip"
+    },
+    {
+        "nome do arquivo": "Prince Of Persia II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Prince.Of.Persia.II.zip"
+    },
+    {
+        "nome do arquivo": "Pro Quarterback",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pro.Quarterback.zip"
+    },
+    {
+        "nome do arquivo": "Pro Sport Hockey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Pro.Sport.Hockey.zip"
+    },
+    {
+        "nome do arquivo": "Psycho Dream",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Psycho.Dream.zip"
+    },
+    {
+        "nome do arquivo": "Push-Over",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Push-Over.zip"
+    },
+    {
+        "nome do arquivo": "Putty Squad",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Putty.Squad.zip"
+    },
+    {
+        "nome do arquivo": "Q-Bert III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Q-Bert.III.zip"
+    },
+    {
+        "nome do arquivo": "Race Drivin'",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Race.Drivin.zip"
+    },
+    {
+        "nome do arquivo": "Radical Dreamers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Radical.Dreamers.zip"
+    },
+    {
+        "nome do arquivo": "Radical Psycho Machine Racing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Radical.Psycho.Machine.Racing.zip"
+    },
+    {
+        "nome do arquivo": "Radical Rex",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Radical.Rex.zip"
+    },
+    {
+        "nome do arquivo": "Raiden Trad",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Raiden.Trad.zip"
+    },
+    {
+        "nome do arquivo": "Rampart",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rampart.zip"
+    },
+    {
+        "nome do arquivo": "Ranma 1-2 - Treasure of Red Cat Gang",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ranma.1-2.-.Treasure.of.Red.Cat.Gang.zip"
+    },
+    {
+        "nome do arquivo": "Ranma Nibunnoichi - Hard Battle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ranma.Nibunnoichi.-.Hard.Battle.zip"
+    },
+    {
+        "nome do arquivo": "Rap Jam - Volume One",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rap.Jam.-.Volume.One.zip"
+    },
+    {
+        "nome do arquivo": "Realm",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Realm.zip"
+    },
+    {
+        "nome do arquivo": "Redline F-1 Racer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Redline.F-1.Racer.zip"
+    },
+    {
+        "nome do arquivo": "Relief Pitcher",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Relief.Pitcher.zip"
+    },
+    {
+        "nome do arquivo": "Ren & Stimpy Show - Buckeroos!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ren.Stimpy.Show.-.Buckeroos.zip"
+    },
+    {
+        "nome do arquivo": "Ren & Stimpy Show - Fire Dogs",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ren.Stimpy.Show.-.Fire.Dogs.zip"
+    },
+    {
+        "nome do arquivo": "Ren & Stimpy Show - Time Warp",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ren.Stimpy.Show.-.Time.Warp.zip"
+    },
+    {
+        "nome do arquivo": "Ren & Stimpy Show - Veediots!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ren.Stimpy.Show.-.Veediots.zip"
+    },
+    {
+        "nome do arquivo": "Rendering Ranger R2",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rendering.Ranger.R2.zip"
+    },
+    {
+        "nome do arquivo": "Revolution X",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Revolution.X.zip"
+    },
+    {
+        "nome do arquivo": "Rex Ronan - Experimental Surgeon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rex.Ronan.-.Experimental.Surgeon.zip"
+    },
+    {
+        "nome do arquivo": "RHI Roller Hockey '95",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/RHI.Roller.Hockey.95.zip"
+    },
+    {
+        "nome do arquivo": "Riddick Bowe Boxing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Riddick.Bowe.Boxing.zip"
+    },
+    {
+        "nome do arquivo": "Rise Of The Phoenix",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rise.Of.The.Phoenix.zip"
+    },
+    {
+        "nome do arquivo": "Rise of the Robots",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rise.of.the.Robots.zip"
+    },
+    {
+        "nome do arquivo": "Rival Turf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rival.Turf.zip"
+    },
+    {
+        "nome do arquivo": "Road Riot 4WD",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Road.Riot.4WD.zip"
+    },
+    {
+        "nome do arquivo": "Road Runner's Death Valley Rally",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Road.Runner.s.Death.Valley.Rally.zip"
+    },
+    {
+        "nome do arquivo": "Robocop III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Robocop.III.zip"
+    },
+    {
+        "nome do arquivo": "Robocop vs. The Terminator",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Robocop.vs.The.Terminator.zip"
+    },
+    {
+        "nome do arquivo": "Robotrek",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Robotrek.zip"
+    },
+    {
+        "nome do arquivo": "Rock n' Roll Racing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rock.n.Roll.Racing.zip"
+    },
+    {
+        "nome do arquivo": "Rocketeer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rocketeer.zip"
+    },
+    {
+        "nome do arquivo": "Rockman & Forte",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rockman.Forte.zip"
+    },
+    {
+        "nome do arquivo": "Rocko's Modern Life",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rocko.s.Modern.Life.zip"
+    },
+    {
+        "nome do arquivo": "Rocky Rodent",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Rocky.Rodent.zip"
+    },
+    {
+        "nome do arquivo": "Roger Clemens' MVP Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Roger.Clemens.MVP.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Romance of the Three Kingdoms II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Romance.of.the.Three.Kingdoms.II.zip"
+    },
+    {
+        "nome do arquivo": "Romance of the Three Kingdoms III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Romance.of.the.Three.Kingdoms.III.zip"
+    },
+    {
+        "nome do arquivo": "Romance of the Three Kingdoms IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Romance.of.the.Three.Kingdoms.IV.zip"
+    },
+    {
+        "nome do arquivo": "RPG Maker I - Super Dante",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/RPG.Maker.I.-.Super.Dante.zip"
+    },
+    {
+        "nome do arquivo": "RPG Maker II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/RPG.Maker.II.zip"
+    },
+    {
+        "nome do arquivo": "R-Type III - The Third Lightning",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/R-Type.III.-.The.Third.Lightning.zip"
+    },
+    {
+        "nome do arquivo": "Run Saber",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Run.Saber.zip"
+    },
+    {
+        "nome do arquivo": "Ryuukihei Dan Danzarubu",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Ryuukihei.Dan.Danzarubu.zip"
+    },
+    {
+        "nome do arquivo": "Sailor Moon S - Kondo ha Puzzle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sailor.Moon.S.-.Kondo.ha.Puzzle.zip"
+    },
+    {
+        "nome do arquivo": "Sailor Moon S - Kurukkurin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sailor.Moon.S.-.Kurukkurin.zip"
+    },
+    {
+        "nome do arquivo": "Sailor Moon S",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sailor.Moon.S.zip"
+    },
+    {
+        "nome do arquivo": "Sailor Moon Super S - Fuwa Fuwa Panic",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sailor.Moon.Super.S.-.Fuwa.Fuwa.Panic.zip"
+    },
+    {
+        "nome do arquivo": "Sailor Moon Super S - Zenin Sanka!!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sailor.Moon.Super.S.-.Zenin.Sanka.zip"
+    },
+    {
+        "nome do arquivo": "Sailor Moon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sailor.Moon.zip"
+    },
+    {
+        "nome do arquivo": "Samurai Shodown",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Samurai.Shodown.zip"
+    },
+    {
+        "nome do arquivo": "Sanrio World Smash Ball!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sanrio.World.Smash.Ball.zip"
+    },
+    {
+        "nome do arquivo": "Saturday Night Slam Masters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Saturday.Night.Slam.Masters.zip"
+    },
+    {
+        "nome do arquivo": "Scooby-Doo",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Scooby-Doo.zip"
+    },
+    {
+        "nome do arquivo": "SD Hiryuu no Ken",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SD.Hiryuu.no.Ken.zip"
+    },
+    {
+        "nome do arquivo": "SeaQuest DSV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SeaQuest.DSV.zip"
+    },
+    {
+        "nome do arquivo": "Secret of Evermore",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Secret.of.Evermore.zip"
+    },
+    {
+        "nome do arquivo": "Secret Of Mana I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Secret.Of.Mana.I.zip"
+    },
+    {
+        "nome do arquivo": "Secret of the Stars",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Secret.of.the.Stars.zip"
+    },
+    {
+        "nome do arquivo": "Seiken Densetsu III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Seiken.Densetsu.III.zip"
+    },
+    {
+        "nome do arquivo": "Sengoku Denshou",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sengoku.Denshou.zip"
+    },
+    {
+        "nome do arquivo": "Shadow",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shadow.zip"
+    },
+    {
+        "nome do arquivo": "Shadowrun",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shadowrun.zip"
+    },
+    {
+        "nome do arquivo": "Shanghai - Banri no Choujou",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shanghai.-.Banri.no.Choujou.zip"
+    },
+    {
+        "nome do arquivo": "Shanghai II - Dragon's Eye",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shanghai.II.-.Dragon.s.Eye.zip"
+    },
+    {
+        "nome do arquivo": "Shaq Fu",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shaq.Fu.zip"
+    },
+    {
+        "nome do arquivo": "Shien's Revenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shien.s.Revenge.zip"
+    },
+    {
+        "nome do arquivo": "Shin Megami Tensei I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shin.Megami.Tensei.I.zip"
+    },
+    {
+        "nome do arquivo": "Shin Megami Tensei II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shin.Megami.Tensei.II.zip"
+    },
+    {
+        "nome do arquivo": "Shin Nekketsu Kouha - Kunio-tachi no B",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shin.Nekketsu.Kouha.-.Kunio-tachi.no.B.zip"
+    },
+    {
+        "nome do arquivo": "Shodai Nekketsu Kouha Kunio-kun",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Shodai.Nekketsu.Kouha.Kunio-kun.zip"
+    },
+    {
+        "nome do arquivo": "Side Pocket",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Side.Pocket.zip"
+    },
+    {
+        "nome do arquivo": "SimAnt",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SimAnt.zip"
+    },
+    {
+        "nome do arquivo": "SimCity 2000",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SimCity.2000.zip"
+    },
+    {
+        "nome do arquivo": "SimCity",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SimCity.zip"
+    },
+    {
+        "nome do arquivo": "SimEarth - The Living Planet",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SimEarth.-.The.Living.Planet.zip"
+    },
+    {
+        "nome do arquivo": "Simpsons - Bart's Nightmare",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Simpsons.-.Bart.s.Nightmare.zip"
+    },
+    {
+        "nome do arquivo": "Simpsons - Virtual Bart",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Simpsons.-.Virtual.Bart.zip"
+    },
+    {
+        "nome do arquivo": "Sink or Swim",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sink.or.Swim.zip"
+    },
+    {
+        "nome do arquivo": "Skuljagger - Revolt of the Westicans",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Skuljagger.-.Revolt.of.the.Westicans.zip"
+    },
+    {
+        "nome do arquivo": "Sky Blazer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sky.Blazer.zip"
+    },
+    {
+        "nome do arquivo": "Smart Ball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Smart.Ball.zip"
+    },
+    {
+        "nome do arquivo": "Smash Tennis",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Smash.Tennis.zip"
+    },
+    {
+        "nome do arquivo": "Smurfs I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Smurfs.I.zip"
+    },
+    {
+        "nome do arquivo": "Smurfs II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Smurfs.II.zip"
+    },
+    {
+        "nome do arquivo": "Snake Blasters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Snake.Blasters.zip"
+    },
+    {
+        "nome do arquivo": "Snoopy Concert",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Snoopy.Concert.zip"
+    },
+    {
+        "nome do arquivo": "Snow White in Happily Ever After",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Snow.White.in.Happily.Ever.After.zip"
+    },
+    {
+        "nome do arquivo": "Soldiers of Fortune",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Soldiers.of.Fortune.zip"
+    },
+    {
+        "nome do arquivo": "Sonic Blast Man I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sonic.Blast.Man.I.zip"
+    },
+    {
+        "nome do arquivo": "Sonic Blast Man II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sonic.Blast.Man.II.zip"
+    },
+    {
+        "nome do arquivo": "Sonic the Hedgehog IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sonic.the.Hedgehog.IV.zip"
+    },
+    {
+        "nome do arquivo": "SOS",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/SOS.zip"
+    },
+    {
+        "nome do arquivo": "Soul Blade",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Soul.Blade.zip"
+    },
+    {
+        "nome do arquivo": "Soul Blazer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Soul.Blazer.zip"
+    },
+    {
+        "nome do arquivo": "Space Ace",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Space.Ace.zip"
+    },
+    {
+        "nome do arquivo": "Space Football - One on One",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Space.Football.-.One.on.One.zip"
+    },
+    {
+        "nome do arquivo": "Space Invaders",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Space.Invaders.zip"
+    },
+    {
+        "nome do arquivo": "Space Megaforce",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Space.Megaforce.zip"
+    },
+    {
+        "nome do arquivo": "Spanky's Quest",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Spanky.s.Quest.zip"
+    },
+    {
+        "nome do arquivo": "Sparkster",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Sparkster.zip"
+    },
+    {
+        "nome do arquivo": "Spawn",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Spawn.zip"
+    },
+    {
+        "nome do arquivo": "Special Tee Shot",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/Sn3s3/Special.Tee.Shot.zip"
+    },
+    {
+        "nome do arquivo": "Spectre",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spectre.zip"
+    },
+    {
+        "nome do arquivo": "Speed Racer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Speed.Racer.zip"
+    },
+    {
+        "nome do arquivo": "Speedy Gonzales - Los Gatos Bandidos",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Speedy.Gonzales.-.Los.Gatos.Bandidos.zip"
+    },
+    {
+        "nome do arquivo": "Spell Craft",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spell.Craft.zip"
+    },
+    {
+        "nome do arquivo": "Spider-Man & the X-Men in Arcade's Rev",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spider-Man.the.X-Men.in.Arcade.s.Rev.zip"
+    },
+    {
+        "nome do arquivo": "Spider-Man & Venom - Maximum Carnage",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spider-Man.Venom.-.Maximum.Carnage.zip"
+    },
+    {
+        "nome do arquivo": "Spider-Man & Venom - Separation Anxiet",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spider-Man.Venom.-.Separation.Anxiet.zip"
+    },
+    {
+        "nome do arquivo": "Spider-Man",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spider-Man.zip"
+    },
+    {
+        "nome do arquivo": "Spindizzy Worlds",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spindizzy.Worlds.zip"
+    },
+    {
+        "nome do arquivo": "Spirou",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spirou.zip"
+    },
+    {
+        "nome do arquivo": "Sporting News Power Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Sporting.News.Power.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Sports Illustrated Championship Footba",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Sports.Illustrated.Championship.Footba.zip"
+    },
+    {
+        "nome do arquivo": "Spriggan Powered",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Spriggan.Powered.zip"
+    },
+    {
+        "nome do arquivo": "Star Fox I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Fox.I.zip"
+    },
+    {
+        "nome do arquivo": "Star Fox II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Fox.II.zip"
+    },
+    {
+        "nome do arquivo": "Star Fox Super Weekend Competition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Fox.Super.Weekend.Competition.zip"
+    },
+    {
+        "nome do arquivo": "Star Ocean",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Ocean.zip"
+    },
+    {
+        "nome do arquivo": "Star Trek - Deep Space Nine",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Trek.-.Deep.Space.Nine.zip"
+    },
+    {
+        "nome do arquivo": "Star Trek - Starfleet Academy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Trek.-.Starfleet.Academy.zip"
+    },
+    {
+        "nome do arquivo": "Star Trek - The Next Generation",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Star.Trek.-.The.Next.Generation.zip"
+    },
+    {
+        "nome do arquivo": "Stargate",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Stargate.zip"
+    },
+    {
+        "nome do arquivo": "Steel Talons",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Steel.Talons.zip"
+    },
+    {
+        "nome do arquivo": "Sterling Sharpe - End 2 End",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Sterling.Sharpe.-.End.2.End.zip"
+    },
+    {
+        "nome do arquivo": "Steven Seagal is The Final Option",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Steven.Seagal.is.The.Final.Option.zip"
+    },
+    {
+        "nome do arquivo": "Stone Protectors",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Stone.Protectors.zip"
+    },
+    {
+        "nome do arquivo": "Street Combat",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Combat.zip"
+    },
+    {
+        "nome do arquivo": "Street Fighter Alpha II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Fighter.Alpha.II.zip"
+    },
+    {
+        "nome do arquivo": "Street Fighter EX",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Fighter.EX.zip"
+    },
+    {
+        "nome do arquivo": "Street Fighter II - The World Warrior",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Fighter.II.-.The.World.Warrior.zip"
+    },
+    {
+        "nome do arquivo": "Street Fighter II Turbo - Hyper Fight",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Fighter.II.Turbo.-.Hyper.Fight.zip"
+    },
+    {
+        "nome do arquivo": "Street Hockey '95",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Hockey.95.zip"
+    },
+    {
+        "nome do arquivo": "Street Racer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Street.Racer.zip"
+    },
+    {
+        "nome do arquivo": "Strike Gunner",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Strike.Gunner.zip"
+    },
+    {
+        "nome do arquivo": "Stunt Race FX",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Stunt.Race.FX.zip"
+    },
+    {
+        "nome do arquivo": "Sunset Riders",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Sunset.Riders.zip"
+    },
+    {
+        "nome do arquivo": "Super Adventure Island I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Adventure.Island.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Adventure Island II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Adventure.Island.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Alfred Chicken",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Alfred.Chicken.zip"
+    },
+    {
+        "nome do arquivo": "Super Aquatic Games",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Aquatic.Games.zip"
+    },
+    {
+        "nome do arquivo": "Super Baseball Simulator 1.000",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Baseball.Simulator.1.000.zip"
+    },
+    {
+        "nome do arquivo": "Super Bases Loaded I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bases.Loaded.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Bases Loaded II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bases.Loaded.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Bases Loaded III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bases.Loaded.III.zip"
+    },
+    {
+        "nome do arquivo": "Super Batter Up",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Batter.Up.zip"
+    },
+    {
+        "nome do arquivo": "Super Battleship",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Battleship.zip"
+    },
+    {
+        "nome do arquivo": "Super Battletank I - War in the Gulf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Battletank.I.-.War.in.the.Gulf.zip"
+    },
+    {
+        "nome do arquivo": "Super Battletank II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Battletank.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Black Bass",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Black.Bass.zip"
+    },
+    {
+        "nome do arquivo": "Super Bomberman - Panic Bomber W",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bomberman.-.Panic.Bomber.W.zip"
+    },
+    {
+        "nome do arquivo": "Super Bomberman I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bomberman.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Bomberman II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bomberman.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Bomberman III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bomberman.III.zip"
+    },
+    {
+        "nome do arquivo": "Super Bomberman IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bomberman.IV.zip"
+    },
+    {
+        "nome do arquivo": "Super Bomberman V",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bomberman.V.zip"
+    },
+    {
+        "nome do arquivo": "Super Bonk II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bonk.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Bonk",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bonk.zip"
+    },
+    {
+        "nome do arquivo": "Super Bowling",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Bowling.zip"
+    },
+    {
+        "nome do arquivo": "Super Buster Bros",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Buster.Bros.zip"
+    },
+    {
+        "nome do arquivo": "Super Caesars Palace",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Caesars.Palace.zip"
+    },
+    {
+        "nome do arquivo": "Super Castlevania IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Castlevania.IV.zip"
+    },
+    {
+        "nome do arquivo": "Super Chase HQ",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Chase.HQ.zip"
+    },
+    {
+        "nome do arquivo": "Super Conflict - The Mideast",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Conflict.-.The.Mideast.zip"
+    },
+    {
+        "nome do arquivo": "Super Dany",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Dany.zip"
+    },
+    {
+        "nome do arquivo": "Super Double Dragon",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Double.Dragon.zip"
+    },
+    {
+        "nome do arquivo": "Super Earth Defense Force",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Earth.Defense.Force.zip"
+    },
+    {
+        "nome do arquivo": "Super Fire Pro Wrestling - Queen's S",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Fire.Pro.Wrestling.-.Queen.s.S.zip"
+    },
+    {
+        "nome do arquivo": "Super Fire Pro Wrestling X Premium",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Fire.Pro.Wrestling.X.Premium.zip"
+    },
+    {
+        "nome do arquivo": "Super Ghouls 'n Ghosts",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Ghouls.n.Ghosts.zip"
+    },
+    {
+        "nome do arquivo": "Super Goal! I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Goal.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Goal! II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Goal.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Godzilla",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Godzilla.zip"
+    },
+    {
+        "nome do arquivo": "Super Gussun Oyoyo II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Gussun.Oyoyo.II.zip"
+    },
+    {
+        "nome do arquivo": "Super High Impact",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.High.Impact.zip"
+    },
+    {
+        "nome do arquivo": "Super Ice Hockey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Ice.Hockey.zip"
+    },
+    {
+        "nome do arquivo": "Super International Cricket",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.International.Cricket.zip"
+    },
+    {
+        "nome do arquivo": "Super James Pond I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.James.Pond.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Loopz",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Loopz.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario AllStars & SMW",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.AllStars.SMW.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario Kart",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.Kart.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario RPG",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.RPG.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario USA I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.USA.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario USA II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.USA.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario USA III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.USA.III.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario USA IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.USA.IV.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario War HOL",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.War.HOL.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario World I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.World.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Mario World II - Yoshi's Island",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Mario.World.II.-.Yoshi.s.Island.zip"
+    },
+    {
+        "nome do arquivo": "Super Metroid",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Metroid.zip"
+    },
+    {
+        "nome do arquivo": "Super Morph",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Morph.zip"
+    },
+    {
+        "nome do arquivo": "Super NES Super Scope 6",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.NES.Super.Scope.6.zip"
+    },
+    {
+        "nome do arquivo": "Super Ninja Boy",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Ninja.Boy.zip"
+    },
+    {
+        "nome do arquivo": "Super Noah's Ark 3D",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Noah.s.Ark.3D.zip"
+    },
+    {
+        "nome do arquivo": "Super Nova",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Nova.zip"
+    },
+    {
+        "nome do arquivo": "Super Off Road - The Baja",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Off.Road.-.The.Baja.zip"
+    },
+    {
+        "nome do arquivo": "Super Off Road",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Off.Road.zip"
+    },
+    {
+        "nome do arquivo": "Super Pinball - Behind The Mask",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Pinball.-.Behind.The.Mask.zip"
+    },
+    {
+        "nome do arquivo": "Super Pinball II - Amazing Odyssey",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Pinball.II.-.Amazing.Odyssey.zip"
+    },
+    {
+        "nome do arquivo": "Super Play Action Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Play.Action.Football.zip"
+    },
+    {
+        "nome do arquivo": "Super Punch-out!!",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Punch-out.zip"
+    },
+    {
+        "nome do arquivo": "Super Putty",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Putty.zip"
+    },
+    {
+        "nome do arquivo": "Super Puyo Puyo I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Puyo.Puyo.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Puyo Puyo II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Puyo.Puyo.II.zip"
+    },
+    {
+        "nome do arquivo": "Super R.B.I. Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.R.B.I.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Super Robot Wars III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Robot.Wars.III.zip"
+    },
+    {
+        "nome do arquivo": "Super R-type",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.R-type.zip"
+    },
+    {
+        "nome do arquivo": "Super Shadow of the Beast",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Shadow.of.the.Beast.zip"
+    },
+    {
+        "nome do arquivo": "Super Slam Dunk",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Slam.Dunk.zip"
+    },
+    {
+        "nome do arquivo": "Super Slapshot",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Slapshot.zip"
+    },
+    {
+        "nome do arquivo": "Super Smash TV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Smash.TV.zip"
+    },
+    {
+        "nome do arquivo": "Super Soccer Champ",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Soccer.Champ.zip"
+    },
+    {
+        "nome do arquivo": "Super Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Super Solitaire",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Solitaire.zip"
+    },
+    {
+        "nome do arquivo": "Super Star Wars - Empire Strikes Back",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Star.Wars.-.Empire.Strikes.Back.zip"
+    },
+    {
+        "nome do arquivo": "Super Star Wars - Return of the Jedi",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Star.Wars.-.Return.of.the.Jedi.zip"
+    },
+    {
+        "nome do arquivo": "Super Star Wars",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Star.Wars.zip"
+    },
+    {
+        "nome do arquivo": "Super Street Fighter II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Street.Fighter.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Strike Eagle",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Strike.Eagle.zip"
+    },
+    {
+        "nome do arquivo": "Super Tennis",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Tennis.zip"
+    },
+    {
+        "nome do arquivo": "Super Tetris II - Bombliss",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Tetris.II.-.Bombliss.zip"
+    },
+    {
+        "nome do arquivo": "Super Troll Islands",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Troll.Islands.zip"
+    },
+    {
+        "nome do arquivo": "Super Turrican I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Turrican.I.zip"
+    },
+    {
+        "nome do arquivo": "Super Turrican II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Turrican.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Ultra Baseball II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Ultra.Baseball.II.zip"
+    },
+    {
+        "nome do arquivo": "Super Valis IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Valis.IV.zip"
+    },
+    {
+        "nome do arquivo": "Super Widget",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Super.Widget.zip"
+    },
+    {
+        "nome do arquivo": "Suzuka 8 Hours",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Suzuka.8.Hours.zip"
+    },
+    {
+        "nome do arquivo": "SWAT Kats - The Radical Squadron",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/SWAT.Kats.-.The.Radical.Squadron.zip"
+    },
+    {
+        "nome do arquivo": "Syndicate",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Syndicate.zip"
+    },
+    {
+        "nome do arquivo": "Syvalion",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s4/Syvalion.zip"
+    },
+    {
+        "nome do arquivo": "T2 - The Arcade Game",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/T2.-.The.Arcade.Game.zip"
+    },
+    {
+        "nome do arquivo": "Tales of Phantasia",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tales.of.Phantasia.zip"
+    },
+    {
+        "nome do arquivo": "Taloon's Great Adventure",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Taloon.s.Great.Adventure.zip"
+    },
+    {
+        "nome do arquivo": "Taz-mania",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Taz-mania.zip"
+    },
+    {
+        "nome do arquivo": "Tecmo Super Baseball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tecmo.Super.Baseball.zip"
+    },
+    {
+        "nome do arquivo": "Tecmo Super Bowl I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tecmo.Super.Bowl.I.zip"
+    },
+    {
+        "nome do arquivo": "Tecmo Super Bowl II - Special Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tecmo.Super.Bowl.II.-.Special.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Tecmo Super Bowl III - Final Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tecmo.Super.Bowl.III.-.Final.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Tecmo Super NBA Basketball",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tecmo.Super.NBA.Basketball.zip"
+    },
+    {
+        "nome do arquivo": "Teenage Mutant Ninja Turtles IV",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Teenage.Mutant.Ninja.Turtles.IV.zip"
+    },
+    {
+        "nome do arquivo": "Tekken II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tekken.II.zip"
+    },
+    {
+        "nome do arquivo": "Tenchi Muyo RPG",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tenchi.Muyo.RPG.zip"
+    },
+    {
+        "nome do arquivo": "Terminator I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Terminator.I.zip"
+    },
+    {
+        "nome do arquivo": "Terminator II - Judgment Day",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Terminator.II.-.Judgment.Day.zip"
+    },
+    {
+        "nome do arquivo": "Terranigma",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Terranigma.zip"
+    },
+    {
+        "nome do arquivo": "Test Drive II - The Duel",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Test.Drive.II.-.The.Duel.zip"
+    },
+    {
+        "nome do arquivo": "Tetris & Dr. Mario",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tetris.Dr.Mario.zip"
+    },
+    {
+        "nome do arquivo": "Tetris Attack",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tetris.Attack.zip"
+    },
+    {
+        "nome do arquivo": "Tetris II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tetris.II.zip"
+    },
+    {
+        "nome do arquivo": "Theme Park",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Theme.Park.zip"
+    },
+    {
+        "nome do arquivo": "Thomas the Tank Engine and Friends",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Thomas.the.Tank.Engine.and.Friends.zip"
+    },
+    {
+        "nome do arquivo": "Thunder Spirits",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Thunder.Spirits.zip"
+    },
+    {
+        "nome do arquivo": "Tick",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tick.zip"
+    },
+    {
+        "nome do arquivo": "Time Cop",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Time.Cop.zip"
+    },
+    {
+        "nome do arquivo": "Time Trax",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Time.Trax.zip"
+    },
+    {
+        "nome do arquivo": "TimeSlip",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/TimeSlip.zip"
+    },
+    {
+        "nome do arquivo": "Timon & Pumbaa's Jungle Games",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Timon.Pumbaa.s.Jungle.Games.zip"
+    },
+    {
+        "nome do arquivo": "Tin Star",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tin.Star.zip"
+    },
+    {
+        "nome do arquivo": "Tinhead",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tinhead.zip"
+    },
+    {
+        "nome do arquivo": "Tintin in Tibet",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tintin.in.Tibet.zip"
+    },
+    {
+        "nome do arquivo": "Tiny Toon Adventures - Buster Busts Lo",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tiny.Toon.Adventures.-.Buster.Busts.Lo.zip"
+    },
+    {
+        "nome do arquivo": "Tiny Toon Adventures - Wacky Sports",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tiny.Toon.Adventures.-.Wacky.Sports.zip"
+    },
+    {
+        "nome do arquivo": "TKO Super Championship Boxing",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/TKO.Super.Championship.Boxing.zip"
+    },
+    {
+        "nome do arquivo": "TMNT - Tournament Fighters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/TMNT.-.Tournament.Fighters.zip"
+    },
+    {
+        "nome do arquivo": "TNN Bass Tournament of Champions",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/TNN.Bass.Tournament.of.Champions.zip"
+    },
+    {
+        "nome do arquivo": "Tom & Jerry",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tom.Jerry.zip"
+    },
+    {
+        "nome do arquivo": "Tomorrow's Joe",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tomorrow.s.Joe.zip"
+    },
+    {
+        "nome do arquivo": "Tony Meola's Sidekicks Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tony.Meola.s.Sidekicks.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Top Gear 3000",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Top.Gear.3000.zip"
+    },
+    {
+        "nome do arquivo": "Top Gear I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Top.Gear.I.zip"
+    },
+    {
+        "nome do arquivo": "Top Gear II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Top.Gear.II.zip"
+    },
+    {
+        "nome do arquivo": "Total Carnage",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Total.Carnage.zip"
+    },
+    {
+        "nome do arquivo": "Toy Story",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Toy.Story.zip"
+    },
+    {
+        "nome do arquivo": "Toys",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Toys.zip"
+    },
+    {
+        "nome do arquivo": "Treasure Hunter G",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Treasure.Hunter.G.zip"
+    },
+    {
+        "nome do arquivo": "Treasure of the Rudras",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Treasure.of.the.Rudras.zip"
+    },
+    {
+        "nome do arquivo": "Troddlers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Troddlers.zip"
+    },
+    {
+        "nome do arquivo": "Troy Aikman NFL Football",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Troy.Aikman.NFL.Football.zip"
+    },
+    {
+        "nome do arquivo": "True Lies",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/True.Lies.zip"
+    },
+    {
+        "nome do arquivo": "Tuff E Nuff",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Tuff.E.Nuff.zip"
+    },
+    {
+        "nome do arquivo": "Turn and Burn - No-Fly Zone",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Turn.and.Burn.-.No-Fly.Zone.zip"
+    },
+    {
+        "nome do arquivo": "Twisted Tales of Spike McFang",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Twisted.Tales.of.Spike.McFang.zip"
+    },
+    {
+        "nome do arquivo": "U.N. Squadron",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/U.N.Squadron.zip"
+    },
+    {
+        "nome do arquivo": "Uchuu no Kishi - Tekkaman Blade",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Uchuu.no.Kishi.-.Tekkaman.Blade.zip"
+    },
+    {
+        "nome do arquivo": "Ultima - Runes of Virtue II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultima.-.Runes.of.Virtue.II.zip"
+    },
+    {
+        "nome do arquivo": "Ultima VI - The False Prophet",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultima.VI.-.The.False.Prophet.zip"
+    },
+    {
+        "nome do arquivo": "Ultima VII - The Black Gate",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultima.VII.-.The.Black.Gate.zip"
+    },
+    {
+        "nome do arquivo": "Ultimate Fighter",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultimate.Fighter.zip"
+    },
+    {
+        "nome do arquivo": "Ultimate Mortal Kombat III",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultimate.Mortal.Kombat.III.zip"
+    },
+    {
+        "nome do arquivo": "Ultra Baseball Jitsumeiban",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultra.Baseball.Jitsumeiban.zip"
+    },
+    {
+        "nome do arquivo": "Ultraman - Towards the Future",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ultraman.-.Towards.the.Future.zip"
+    },
+    {
+        "nome do arquivo": "Umihara Kawase",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Umihara.Kawase.zip"
+    },
+    {
+        "nome do arquivo": "Uncharted Waters - New Horizons",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Uncharted.Waters.-.New.Horizons.zip"
+    },
+    {
+        "nome do arquivo": "Uncharted Waters",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Uncharted.Waters.zip"
+    },
+    {
+        "nome do arquivo": "Undercover Cops",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Undercover.Cops.zip"
+    },
+    {
+        "nome do arquivo": "Uniracers",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Uniracers.zip"
+    },
+    {
+        "nome do arquivo": "Universal Soldier",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Universal.Soldier.zip"
+    },
+    {
+        "nome do arquivo": "Untouchables",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Untouchables.zip"
+    },
+    {
+        "nome do arquivo": "Urban Strike",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Urban.Strike.zip"
+    },
+    {
+        "nome do arquivo": "Utopia - The Creation of a Nation",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Utopia.-.The.Creation.of.a.Nation.zip"
+    },
+    {
+        "nome do arquivo": "Vegas Stakes",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Vegas.Stakes.zip"
+    },
+    {
+        "nome do arquivo": "Villgust",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Villgust.zip"
+    },
+    {
+        "nome do arquivo": "Violinist of Hameln",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Violinist.of.Hameln.zip"
+    },
+    {
+        "nome do arquivo": "Virtual Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Virtual.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "Vocals of Phantasia",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Vocals.of.Phantasia.zip"
+    },
+    {
+        "nome do arquivo": "Vortex",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Vortex.zip"
+    },
+    {
+        "nome do arquivo": "Vs Collection",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Vs.Collection.zip"
+    },
+    {
+        "nome do arquivo": "Waialae Country Club",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Waialae.Country.Club.zip"
+    },
+    {
+        "nome do arquivo": "War 2410",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/War.2410.zip"
+    },
+    {
+        "nome do arquivo": "War 3010 - The Revolution",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/War.3010.-.The.Revolution.zip"
+    },
+    {
+        "nome do arquivo": "Wario's Woods",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wario.s.Woods.zip"
+    },
+    {
+        "nome do arquivo": "Warlock",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Warlock.zip"
+    },
+    {
+        "nome do arquivo": "WarpSpeed",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WarpSpeed.zip"
+    },
+    {
+        "nome do arquivo": "Waterworld",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Waterworld.zip"
+    },
+    {
+        "nome do arquivo": "Wayne Gretzky and the NHLPA All-Stars",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wayne.Gretzky.and.the.NHLPA.All-Stars.zip"
+    },
+    {
+        "nome do arquivo": "Wayne's World",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wayne.s.World.zip"
+    },
+    {
+        "nome do arquivo": "WCW Super Brawl Wrestling",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WCW.Super.Brawl.Wrestling.zip"
+    },
+    {
+        "nome do arquivo": "Weapon Lord",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Weapon.Lord.zip"
+    },
+    {
+        "nome do arquivo": "We're Back! - A Dinosaur's Story",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/We.re.Back.-.A.Dinosaur.s.Story.zip"
+    },
+    {
+        "nome do arquivo": "Wheel of Fortune - Deluxe Edition",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wheel.of.Fortune.-.Deluxe.Edition.zip"
+    },
+    {
+        "nome do arquivo": "Wheel Of Fortune",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wheel.Of.Fortune.zip"
+    },
+    {
+        "nome do arquivo": "Where In The World Is Carmen Sandiego",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Where.In.The.World.Is.Carmen.Sandiego.zip"
+    },
+    {
+        "nome do arquivo": "Where in Time is Carmen Sandiego",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Where.in.Time.is.Carmen.Sandiego.zip"
+    },
+    {
+        "nome do arquivo": "Whirlo",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Whirlo.zip"
+    },
+    {
+        "nome do arquivo": "Whizz",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Whizz.zip"
+    },
+    {
+        "nome do arquivo": "Wicked 18 Golf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wicked.18.Golf.zip"
+    },
+    {
+        "nome do arquivo": "Wild Guns",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wild.Guns.zip"
+    },
+    {
+        "nome do arquivo": "WildSnake",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WildSnake.zip"
+    },
+    {
+        "nome do arquivo": "Wile E Coyotes Revenge",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wile.E.Coyotes.Revenge.zip"
+    },
+    {
+        "nome do arquivo": "Wing Commander - The Secret Missions",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wing.Commander.-.The.Secret.Missions.zip"
+    },
+    {
+        "nome do arquivo": "Wing Commander",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wing.Commander.zip"
+    },
+    {
+        "nome do arquivo": "Wings II - Aces High",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wings.II.-.Aces.High.zip"
+    },
+    {
+        "nome do arquivo": "Winter Extreme Skiing and Snowboarding",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Winter.Extreme.Skiing.and.Snowboarding.zip"
+    },
+    {
+        "nome do arquivo": "Winter Gold",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Winter.Gold.zip"
+    },
+    {
+        "nome do arquivo": "Winter Olympic Games - Lillehammer '94",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Winter.Olympic.Games.-.Lillehammer.94.zip"
+    },
+    {
+        "nome do arquivo": "Wizard of Oz",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wizard.of.Oz.zip"
+    },
+    {
+        "nome do arquivo": "Wizardry I-II-III - Story of Llylgamyn",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wizardry.I-II-III.-.Story.of.Llylgamyn.zip"
+    },
+    {
+        "nome do arquivo": "Wizardry V - Heart of the Maelstrom",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wizardry.V.-.Heart.of.the.Maelstrom.zip"
+    },
+    {
+        "nome do arquivo": "Wolf Child",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wolf.Child.zip"
+    },
+    {
+        "nome do arquivo": "Wolfenstein 3D",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wolfenstein.3D.zip"
+    },
+    {
+        "nome do arquivo": "Wolverine - Adamantium Rage",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wolverine.-.Adamantium.Rage.zip"
+    },
+    {
+        "nome do arquivo": "Wonder Project J - Kikai no Shounen Pi",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wonder.Project.J.-.Kikai.no.Shounen.Pi.zip"
+    },
+    {
+        "nome do arquivo": "Wordtris",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Wordtris.zip"
+    },
+    {
+        "nome do arquivo": "World Class Rugby",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.Class.Rugby.zip"
+    },
+    {
+        "nome do arquivo": "World Cup USA '94",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.Cup.USA.94.zip"
+    },
+    {
+        "nome do arquivo": "World Heroes I",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.Heroes.I.zip"
+    },
+    {
+        "nome do arquivo": "World Heroes II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.Heroes.II.zip"
+    },
+    {
+        "nome do arquivo": "World League Soccer",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.League.Soccer.zip"
+    },
+    {
+        "nome do arquivo": "World Masters Golf",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.Masters.Golf.zip"
+    },
+    {
+        "nome do arquivo": "World Soccer '94 - Road to Glory",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/World.Soccer.94.-.Road.to.Glory.zip"
+    },
+    {
+        "nome do arquivo": "Worms",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Worms.zip"
+    },
+    {
+        "nome do arquivo": "WWF Raw",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WWF.Raw.zip"
+    },
+    {
+        "nome do arquivo": "WWF Royal Rumble",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WWF.Royal.Rumble.zip"
+    },
+    {
+        "nome do arquivo": "WWF Super WrestleMania",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WWF.Super.WrestleMania.zip"
+    },
+    {
+        "nome do arquivo": "WWF Wrestlemania - The Arcade Game",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/WWF.Wrestlemania.-.The.Arcade.Game.zip"
+    },
+    {
+        "nome do arquivo": "Xardion",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Xardion.zip"
+    },
+    {
+        "nome do arquivo": "X-Kaliber 2097",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/X-Kaliber.2097.zip"
+    },
+    {
+        "nome do arquivo": "X-Men - Mutant Apocalypse",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/X-Men.-.Mutant.Apocalypse.zip"
+    },
+    {
+        "nome do arquivo": "X-Men vs Street Fighter",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/X-Men.vs.Street.Fighter.zip"
+    },
+    {
+        "nome do arquivo": "X-zone",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/X-zone.zip"
+    },
+    {
+        "nome do arquivo": "Yogi Bear",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Yogi.Bear.zip"
+    },
+    {
+        "nome do arquivo": "Yoshi's Cookie",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Yoshi.s.Cookie.zip"
+    },
+    {
+        "nome do arquivo": "Yoshi's Safari",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Yoshi.s.Safari.zip"
+    },
+    {
+        "nome do arquivo": "Young Merlin",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Young.Merlin.zip"
+    },
+    {
+        "nome do arquivo": "Ys III - Wanderers From Ys",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ys.III.-.Wanderers.From.Ys.zip"
+    },
+    {
+        "nome do arquivo": "Ys IV - Mask of the Sun",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Ys.IV.-.Mask.of.the.Sun.zip"
+    },
+    {
+        "nome do arquivo": "Yuu Yuu Hakusho Final",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Yuu.Yuu.Hakusho.Final.zip"
+    },
+    {
+        "nome do arquivo": "Yuu Yuu Hakusho II",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Yuu.Yuu.Hakusho.II.zip"
+    },
+    {
+        "nome do arquivo": "Zero the Kamikaze Squirrel",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Zero.the.Kamikaze.Squirrel.zip"
+    },
+    {
+        "nome do arquivo": "Zombies Ate My Neighbors",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Zombies.Ate.My.Neighbors.zip"
+    },
+    {
+        "nome do arquivo": "Zool",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Zool.zip"
+    },
+    {
+        "nome do arquivo": "Zoop",
+        "Link do arquivo": "https://github.com/RetroCollectionShop/SNES/releases/download/sn3s5/Zoop.zip"
+    }
+]
