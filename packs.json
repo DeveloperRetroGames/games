@@ -6,5 +6,12 @@
     {
         "nome do arquivo": "PACK SNES 1000 JOGOS",
         "Link do arquivo": "https://tinyurl.com/2jmapb59"
+    },
+    {
+        "nome do arquivo": "PACK FBNEO 400 JOGOS",
+        "Link do arquivo": [
+            "https://github.com/RetroCollectionShop/Ps2UP/releases/download/bbg/FBNEO.part1.rar",
+            "https://github.com/RetroCollectionShop/Ps2UP/releases/download/bbg/FBNEO.part2.rar"
+        ]
     }
 ]
