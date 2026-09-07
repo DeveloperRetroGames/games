@@ -1,0 +1,37 @@
+{
+  "pixKey": "",
+  "pixKeyLabel": "Chave Pix (E-mail):",
+  "message": "Sua doação voluntária mantém os servidores de alta velocidade online, os catálogos atualizados e a plataforma 100% livre de anúncios.",
+  "tiers": [
+    {
+      "id": "tier-basic",
+      "title": "Apoio Básico",
+      "amount": "R$ 10,00",
+      "url": "https://pixgo.org/payment/doacaobasica-gamefast",
+      "icon": "coffee",
+      "color": "sky",
+      "badge": "Iniciante",
+      "description": "Ajuda com os custos básicos de hospedagem e DNS."
+    },
+    {
+      "id": "tier-vip",
+      "title": "Apoio VIP Membro",
+      "amount": "R$ 15,00",
+      "url": "https://pixgo.org/payment/doacaovip-gamefast",
+      "icon": "crown",
+      "color": "amber",
+      "badge": "Popular",
+      "description": "Garante prioridade na fila de download e badge VIP."
+    },
+    {
+      "id": "tier-master",
+      "title": "Apoio Master Servidor",
+      "amount": "R$ 20,00",
+      "url": "https://pixgo.org/payment/521",
+      "icon": "zap",
+      "color": "emerald",
+      "badge": "Recomendado",
+      "description": "Mantém os links diretos e espelhos de alta velocidade ativos."
+    }
+  ]
+}
