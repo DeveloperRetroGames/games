@@ -58,5 +58,38 @@
     {
         "nome do arquivo": "3D Lemmings",
         "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/3D%20Lemmings.chd"
+    },
+    {
+        "nome do arquivo": "3D Pool, Archer Macleans",
+        "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/3D%20Pool%2C%20Archer%20Macleans.chd"
+    },
+    {
+        "nome do arquivo": "3Xtreme",
+        "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/3Xtreme.chd"
+    },
+    {
+        "nome do arquivo": "40 Winks - Conquer Your Dreams featuring Ruff Tumble",
+        "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/40%20Winks%20-%20Conquer%20Your%20Dreams%20featuring%20Ruff%20Tumble.chd"
+    },
+    {
+        "nome do arquivo": "4x4 World Trophy",
+        "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/4x4%20World%20Trophy.chd"
+    },
+    {
+        "nome do arquivo": "5 Star Racing",
+        "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/5%20Star%20Racing.chd"
+    },
+    {
+        "nome do arquivo": "70's Robot Anime - Geppy-X - The Super Boosted Armor",
+        "Link do arquivo": [
+            "https://archive.org/download/ps1-rip-chd-ck/70s%20Robot%20Anime%20-%20Geppy-X%20-%20The%20Super%20Boosted%20Armor%20%5BDisc%201%5D.chd",
+            "https://archive.org/download/ps1-rip-chd-ck/70s%20Robot%20Anime%20-%20Geppy-X%20-%20The%20Super%20Boosted%20Armor%20%5BDisc%202%5D.chd",
+            "https://archive.org/download/ps1-rip-chd-ck/70%27s%20Robot%20Anime%20-%20Geppy-X%20-%20The%20Super%20Boosted%20Armor%20%5BDisc%203%5D.chd",
+            "https://archive.org/download/ps1-rip-chd-ck/70s%20Robot%20Anime%20-%20Geppy-X%20-%20The%20Super%20Boosted%20Armor%20%5BDisc%204%5D.chd"
+        ]
+    },
+    {
+        "nome do arquivo": "A Bug's Life",
+        "Link do arquivo": "https://archive.org/download/ps1-rip-chd-ck/A%20Bug%27s%20Life.chd"
     }
 ]
